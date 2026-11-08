@@ -3,6 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.preprocessing import StandardScaler
+from pathlib import Path
 
 # Impor display agar aman jika dijalankan di Jupyter/Colab, atau fallback ke print jika di skrip .py biasa
 try:
@@ -19,17 +20,18 @@ print("==================================================================")
 print("1. DATA UNDERSTANDING & DATA DICTIONARY")
 print("==================================================================")
 
-file_path = 'Statistik_Pengelolaan_Sampah_2026_2026-10-25.xls'
+BASE_DIR = Path(__file__).resolve().parent          # folder tempat skrip berada
+file_path = BASE_DIR / 'Statistik_Pengelolaan_Sampah_2026_2026-10-22.xls'   # samakan dengan nama asli
 
-try:
-    # Membaca file HTML-Excel SIPSN. Tabel utama data wilayah berada pada indeks ke-2
-    tables = pd.read_html(file_path)
-    df_raw = tables[2]
-    print("Berhasil membaca tabel utama wilayah dari SIPSN (tables[2])!")
-except Exception as e:
-    print(f"Gagal membaca dengan read_html, mencoba read_excel: {e}")
-    df_raw = pd.read_excel(file_path)
+if not file_path.exists():
+    raise FileNotFoundError(f"File tidak ditemukan: {file_path}")
 
+# File SIPSN sebenarnya HTML bertipe .xls, jadi jangan pakai read_excel sebagai fallback
+tables = pd.read_html(file_path, thousands='.', decimal=',')
+print(f"Jumlah tabel terbaca: {len(tables)}")
+for i, t in enumerate(tables):
+    print(i, t.shape)
+df_raw = tables[2]
 # Membersihkan spasi pada header kolom
 df_raw.columns = df_raw.columns.str.strip()
 
@@ -149,6 +151,7 @@ axes[1].set_xlabel('Jenis Wilayah')
 axes[1].set_ylabel('Persentase Terkelola (%)')
 
 plt.tight_layout()
+plt.savefig('fig_kab_vs_kota.png', dpi=200, bbox_inches='tight')
 plt.show()
 
 
@@ -166,6 +169,7 @@ sns.boxplot(x=df_clean['Timbulan (tpd)'], ax=axes[1], color='salmon')
 axes[1].set_title('Boxplot Timbulan Sampah (Outlier Ekstrem Dipertahankan)', fontsize=12, fontweight='bold')
 axes[1].set_xlabel('Timbulan Sampah (tpd)')
 plt.tight_layout()
+plt.savefig('fig_timbulan_sampah.png', dpi=200, bbox_inches='tight')
 plt.show()
 
 # Visualisasi Kinerja Berdasarkan Jenis TPA
@@ -183,6 +187,7 @@ for p in ax.patches:
 
 plt.xlim(0, 100)
 plt.tight_layout()
+plt.savefig('fig_kab_vs_kota.png', dpi=200, bbox_inches='tight')
 plt.show()
 
 # Matriks Korelasi Spearman & Insight Pemodelan
@@ -191,6 +196,7 @@ corr_matrix = df_clean[numeric_features].corr(method='spearman')
 sns.heatmap(corr_matrix, annot=True, cmap='coolwarm', fmt='.2f', linewidths=0.5)
 plt.title('Matriks Korelasi Spearman', fontsize=12, fontweight='bold')
 plt.tight_layout()
+plt.savefig('fig_korelasi_spearman.png', dpi=200, bbox_inches='tight')
 plt.show()
 
 print("\n--- 3 INSIGHT UTAMA DARI KORELASI UNTUK KEPUTUSAN REKAYASA & PEMODELAN ---")

@@ -1,0 +1,21 @@
+﻿Kolom,Tipe,Missing,Missing_%,Nilai_unik,Nilai_berulang,Outlier_IQR,Outlier_%,Nilai_nol
+No,Kategori/Lainnya,0,0.0,511,0,,,
+Provinsi,Kategori/Lainnya,0,0.0,38,473,,,
+Kota/Kabupaten,Kategori/Lainnya,0,0.0,511,0,,,
+Jenis TPA,Kategori/Lainnya,44,8.61,4,463,,,
+Nama TPA,Kategori/Lainnya,511,100.0,0,0,,,
+Kelompok,Kategori/Lainnya,0,0.0,2,509,,,
+BSU Aktif,Numerik,26,5.09,127,358,70.0,14.43,135.0
+BSU Tidak Aktif,Kategori/Lainnya,29,5.68,71,411,,,
+Sampah Terkelola BSU,Kategori/Lainnya,0,0.0,174,337,,,
+BSI Aktif,Numerik,29,5.68,10,472,20.0,4.15,193.0
+BSI Tidak Aktif,Kategori/Lainnya,32,6.26,8,471,,,
+Sampah Terkelola BSI,Kategori/Lainnya,0,0.0,135,376,,,
+Status RIPS,Kategori/Lainnya,15,2.94,9,487,,,
+Link RIPS,Kategori/Lainnya,373,72.99,130,8,,,
+Verifikasi Lapangan,Kategori/Lainnya,0,0.0,2,509,,,
+Nilai Kinerja PS,Kategori/Lainnya,511,100.0,0,0,,,
+Progress SA,Kategori/Lainnya,293,57.34,204,14,,,
+Timbulan (tpd),Numerik,0,0.0,312,199,56.0,10.96,1.0
+% S. Terkelola,Numerik,0,0.0,419,92,25.0,4.89,64.0
+% S. Belum Terkelola,Kategori/Lainnya,0,0.0,419,92,,,
