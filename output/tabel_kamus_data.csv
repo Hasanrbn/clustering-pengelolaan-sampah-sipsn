@@ -1,0 +1,21 @@
+﻿Variabel,Tipe Data,Satuan/Format,Makna,Peran,Dtype terbaca
+Provinsi,Kategori (teks),Nama provinsi,Identitas geografis,Identitas,object
+Kota/Kabupaten,Kategori (teks),Nama wilayah,Identitas; dasar proxy perdesaan (Jenis_Wilayah),Identitas,object
+Timbulan (tpd),Numerik (integer),Ton/hari,Volume sampah,Fitur K-Means,int64
+% S. Terkelola,Numerik (float),Persen (0-100),Kinerja penanganan sampah,Fitur K-Means,float64
+BSU Aktif,Numerik (integer),Unit,Bank Sampah Unit aktif (akses infrastruktur),Fitur K-Means,object
+BSI Aktif,Numerik (integer),Unit,Bank Sampah Induk aktif (akses infrastruktur),Fitur K-Means,object
+BSU Tidak Aktif,Numerik (integer),Unit,Bank sampah unit tidak aktif,Tidak dipakai,object
+BSI Tidak Aktif,Numerik (integer),Unit,Bank sampah induk tidak aktif,Tidak dipakai,object
+Sampah Terkelola BSU,Numerik,Cek satuan di portal SIPSN,Sampah yang dikelola bank sampah unit,Kandidat fitur UAS,float64
+Sampah Terkelola BSI,Numerik,Cek satuan di portal SIPSN,Sampah yang dikelola bank sampah induk,Kandidat fitur UAS,float64
+% S. Belum Terkelola,Numerik (float),Persen (0-100),Komplemen dari % S. Terkelola (diverifikasi di bagian 5.3),Dibuang (redundan),float64
+Jenis TPA,Kategori (teks),Sanitary/Controlled/Open dumping/dll,Jenis tempat pemrosesan akhir,Profiling klaster,object
+Status RIPS,Kategori (teks),Status dokumen,Status rencana induk pengelolaan sampah,Profiling klaster,object
+Kelompok,Kategori (teks),-,Pengelompokan bawaan SIPSN,Tidak dipakai,object
+Verifikasi Lapangan,Kategori (teks),-,Status verifikasi data,Metadata,object
+Nama TPA,Teks,-,Nama TPA,Dibuang (kosong 100%),object
+Nilai Kinerja PS,Numerik,-,Nilai kinerja,Dibuang (kosong 100%),object
+Link RIPS,Teks (URL),-,Tautan dokumen RIPS,Dibuang (banyak kosong),object
+Progress SA,Numerik,-,Progres,Dibuang (banyak kosong),object
+No,Integer,-,Nomor urut baris,Dibuang (bukan informasi),int64

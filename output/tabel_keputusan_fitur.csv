@@ -1,0 +1,23 @@
+﻿Fitur/Kolom,Keputusan,Alasan & bukti
+Timbulan (tpd),Dipakai,skewness 3.19 (di-log1p); missing awal 0.0%; rho dengan % terkelola = 0.26
+% S. Terkelola,Dipakai,skewness 1.24 (di-log1p); missing awal 0.0%; indikator kinerja inti
+BSU Aktif,Dipakai,skewness 3.86 (di-log1p); missing awal 5.1%; rho dengan % terkelola = 0.48
+BSI Aktif,Dipakai,skewness 6.37 (di-log1p); missing awal 5.7%; rho dengan % terkelola = 0.41
+Tidak_Terkelola_tpd,Dibuang (redundan),|rho| dengan Timbulan (tpd) = 0.86 >= 0.8; informasi sudah terwakili
+Total_Bank_Sampah,Dibuang (redundan),|rho| dengan BSU Aktif = 0.99 >= 0.8; informasi sudah terwakili
+Nama TPA,Dibuang,missing 100.0%
+Nilai Kinerja PS,Dibuang,missing 100.0%
+Progress SA,Dibuang,missing 57.3%
+Link RIPS,Dibuang,missing 73.0%
+No,Dibuang,"nomor urut, bukan informasi"
+Jenis TPA,Profiling saja,"kategorik; tidak cocok untuk jarak Euclidean K-Means, dipakai membaca profil klaster"
+Status RIPS,Profiling saja,"kategorik; tidak cocok untuk jarak Euclidean K-Means, dipakai membaca profil klaster"
+RIPS_Grup,Profiling saja (fitur baru),penggabungan 10 status RIPS menjadi 4 kelompok agar one-hot tidak terlalu jarang
+% S. Belum Terkelola,Dibuang (redundan),"komplemen % terkelola (jumlah keduanya 100.0-100.0%, rho = -1.00)"
+Sampah Terkelola BSU,Tidak dipakai (kandidat UAS),"rho dengan BSU Aktif = 0.797 (< 0.8), rho dengan % terkelola = 0.50; 35% bernilai 0 dan satuan belum dikonfirmasi -> dievaluasi lagi di UAS"
+Sampah Terkelola BSI,Tidak dipakai (kandidat UAS),"rho dengan BSI Aktif = 0.776 (< 0.8), rho dengan % terkelola = 0.48; 47% bernilai 0 dan satuan belum dikonfirmasi -> dievaluasi lagi di UAS"
+Kelompok,Tidak dipakai,di luar cakupan indikator model / metadata
+BSU Tidak Aktif,Tidak dipakai,di luar cakupan indikator model / metadata
+BSI Tidak Aktif,Tidak dipakai,di luar cakupan indikator model / metadata
+Verifikasi Lapangan,Tidak dipakai,di luar cakupan indikator model / metadata
+"Provinsi, Kota/Kabupaten",Identitas,label wilayah untuk interpretasi hasil klaster
