@@ -1,0 +1,512 @@
+﻿Provinsi,Kota/Kabupaten,Jenis_Wilayah,Split,Klaster,Timbulan (tpd),% S. Terkelola,BSU Aktif,BSI Aktif,Tidak_Terkelola_tpd,Jenis TPA,RIPS_Grup,Flag_Timbulan_Nol,Flag_BSU_BSI_Kosong,Flag_Belum_Verifikasi
+Jawa Tengah,Kabupaten Brebes,Kabupaten (Proxy Desa),test,0,1033,2.32,3.0,0.0,1009.0344,Open Dumping,"Ada, belum final",False,False,False
+Sumatera Utara,Kabupaten Langkat,Kabupaten (Proxy Desa),train,0,763,0.07,1.0,1.0,762.4658999999999,Controlled Landfill,Tidak ada,False,False,False
+Lampung,Kabupaten Lampung Timur,Kabupaten (Proxy Desa),train,0,571,4.66,3.0,0.0,544.3914,Controlled Landfill,Tidak ada,False,False,False
+Sumatera Utara,Kabupaten Simalungun,Kabupaten (Proxy Desa),train,0,518,0.31,5.0,0.0,516.3942,Open Dumping,Disahkan,False,False,False
+Kalimantan Barat,Kabupaten Kubu Raya,Kabupaten (Proxy Desa),train,0,443,0.0,10.0,0.0,443.0,Open Dumping,"Ada, belum final",False,False,False
+Kalimantan Barat,Kabupaten Sambas,Kabupaten (Proxy Desa),train,0,329,2.07,4.0,0.0,322.18969999999996,Open Dumping,Tidak ada,False,False,False
+Jawa Timur,Kabupaten Bondowoso,Kabupaten (Proxy Desa),train,0,315,0.13,4.0,1.0,314.5905,Open Dumping,Tidak ada,False,False,False
+Kalimantan Barat,Kabupaten Ketapang,Kabupaten (Proxy Desa),train,0,296,0.64,4.0,0.0,294.10560000000004,Open Dumping,Tidak ada,False,False,False
+Sumatera Utara,Kabupaten Serdang Bedagai,Kabupaten (Proxy Desa),train,0,279,0.01,0.0,0.0,278.9721,Open Dumping,"Ada, belum final",False,False,False
+Kalimantan Barat,Kabupaten Sanggau,Kabupaten (Proxy Desa),train,0,254,0.0,1.0,0.0,254.0,Open Dumping,Tidak ada,False,False,False
+Sumatera Utara,Kabupaten Labuhan Batu,Kabupaten (Proxy Desa),train,0,260,3.98,5.0,0.0,249.652,Open Dumping,Tidak ada,False,False,False
+Nusa Tenggara Barat,Kabupaten Bima,Kabupaten (Proxy Desa),train,0,245,1.47,3.0,1.0,241.39849999999998,Open Dumping,Tidak ada,False,False,False
+Aceh,Kabupaten Aceh Utara,Kabupaten (Proxy Desa),train,0,253,4.73,0.0,0.0,241.0331,Open Dumping,Tidak ada,False,False,False
+Kalimantan Tengah,Kabupaten Kotawaringin Timur,Kabupaten (Proxy Desa),train,0,245,2.67,0.0,1.0,238.45850000000002,Open Dumping,Tidak ada,False,False,False
+Maluku,Kabupaten Maluku Tengah,Kabupaten (Proxy Desa),train,0,216,0.0,0.0,0.0,216.0,Open Dumping,Tidak ada,False,False,False
+Sulawesi Selatan,Kabupaten Jeneponto,Kabupaten (Proxy Desa),train,0,212,0.08,4.0,0.0,211.8304,Open Dumping,"Ada, belum final",False,False,False
+Kalimantan Barat,Kabupaten Sintang,Kabupaten (Proxy Desa),train,0,217,3.4,1.0,0.0,209.62199999999999,Open Dumping,Tidak ada,False,False,False
+Papua,Kota Jayapura,Kota,train,0,202,0.0,4.0,1.0,202.0,Tidak diisi,Tidak ada,False,True,True
+Sumatera Utara,Kabupaten Mandailing Natal,Kabupaten (Proxy Desa),train,0,199,0.0,0.0,0.0,199.0,Open Dumping,Tidak ada,False,False,False
+Sumatera Utara,Kabupaten Tapanuli Tengah,Kabupaten (Proxy Desa),train,0,197,0.1,1.0,0.0,196.803,Open Dumping,Tidak ada,False,False,False
+Riau,Kabupaten Siak,Kabupaten (Proxy Desa),train,0,198,0.67,2.0,1.0,196.6734,Open Dumping,"Ada, belum final",False,False,False
+Sumatera Utara,Kabupaten Nias Selatan,Kabupaten (Proxy Desa),train,0,195,0.81,0.0,0.0,193.4205,Open Dumping,Tidak ada,False,False,False
+Sumatera Utara,Kabupaten Padang Lawas,Kabupaten (Proxy Desa),train,0,193,0.0,0.0,0.0,193.0,Open Dumping,Tidak ada,False,False,False
+Sulawesi Selatan,Kabupaten Luwu,Kabupaten (Proxy Desa),train,0,192,0.1,4.0,0.0,191.808,Open Dumping,Tidak ada,False,False,False
+Sulawesi Tengah,Kabupaten Banggai,Kabupaten (Proxy Desa),train,0,189,0.7,1.0,1.0,187.677,Open Dumping,"Ada, belum final",False,False,False
+Jambi,Kabupaten Merangin,Kabupaten (Proxy Desa),train,0,187,0.2,3.0,0.0,186.626,Open Dumping,Tidak ada,False,False,False
+Aceh,Kabupaten Aceh Timur,Kabupaten (Proxy Desa),train,0,185,0.0,0.0,0.0,185.0,Open Dumping,Tidak ada,False,False,False
+Sumatera Utara,Kabupaten Batu Bara,Kabupaten (Proxy Desa),train,0,184,0.0,0.0,0.0,184.0,Open Dumping,Tidak ada,False,False,False
+Sumatera Selatan,Kabupaten Ogan Ilir,Kabupaten (Proxy Desa),train,0,178,0.0,0.0,1.0,178.0,Open Dumping,"Ada, belum final",False,False,False
+Sulawesi Utara,Kabupaten Minahasa,Kabupaten (Proxy Desa),train,0,177,0.36,3.0,1.0,176.3628,Open Dumping,Tidak ada,False,False,False
+Sumatera Barat,Kabupaten Pasaman Barat,Kabupaten (Proxy Desa),train,0,185,5.14,0.0,0.0,175.491,Open Dumping,Tidak ada,False,False,False
+Jambi,Kabupaten Tanjung Jabung Barat,Kabupaten (Proxy Desa),train,0,167,0.04,5.0,0.0,166.9332,Open Dumping,Tidak ada,False,False,False
+Kalimantan Barat,Kabupaten Landak,Kabupaten (Proxy Desa),train,0,166,0.45,0.0,0.0,165.25300000000001,Open Dumping,Tidak ada,False,False,False
+Sulawesi Selatan,Kabupaten Luwu Utara,Kabupaten (Proxy Desa),train,0,167,1.18,0.0,1.0,165.02939999999998,Open Dumping,Tidak ada,False,False,False
+Sumatera Utara,Kabupaten Dairi,Kabupaten (Proxy Desa),train,0,165,1.51,2.0,0.0,162.5085,Open Dumping,Tidak ada,False,False,False
+Lampung,Kabupaten Pringsewu,Kabupaten (Proxy Desa),test,0,175,7.6,3.0,0.0,161.70000000000002,Open Dumping,"Ada, belum final",False,False,False
+Sumatera Selatan,Kota Lubuklinggau,Kota,train,0,161,0.02,1.0,1.0,160.9678,Open Dumping,"Ada, belum final",False,True,False
+Sumatera Utara,Kabupaten Tapanuli Selatan,Kabupaten (Proxy Desa),train,0,161,0.17,2.0,0.0,160.72629999999998,Open Dumping,Tidak ada,False,False,False
+Sulawesi Selatan,Kabupaten Takalar,Kabupaten (Proxy Desa),train,0,159,1.07,0.0,0.0,157.2987,Open Dumping,Tidak ada,False,False,False
+Sumatera Selatan,Kabupaten Ogan Komering Ulu,Kabupaten (Proxy Desa),test,0,156,0.08,0.0,1.0,155.8752,Open Dumping,Tidak ada,False,False,False
+Sumatera Utara,Kabupaten Labuhan Batu Utara,Kabupaten (Proxy Desa),train,0,160,3.46,3.0,0.0,154.464,Open Dumping,Tidak ada,False,False,False
+Sumatera Utara,Kota Pematang Siantar,Kota,train,0,161,7.07,0.0,0.0,149.6173,Open Dumping,Tidak ada,False,False,False
+Papua Pegunungan,Kabupaten Yahukimo,Kabupaten (Proxy Desa),test,0,149,0.0,4.0,1.0,149.0,Tidak diisi,Tidak ada,False,True,True
+Sulawesi Tenggara,Kabupaten Konawe Selatan,Kabupaten (Proxy Desa),train,0,163,9.91,0.0,0.0,146.8467,Controlled Landfill,Tidak ada,False,False,False
+Aceh,Kabupaten Aceh Besar,Kabupaten (Proxy Desa),test,0,149,1.9,7.0,0.0,146.169,Open Dumping,Tidak ada,False,False,False
+Bengkulu,Kabupaten Rejang Lebong,Kabupaten (Proxy Desa),train,0,144,0.42,0.0,0.0,143.3952,Open Dumping,Tidak ada,False,False,False
+Sumatera Selatan,Kabupaten Empat Lawang,Kabupaten (Proxy Desa),test,0,135,0.88,0.0,0.0,133.81199999999998,Open Dumping,Tidak ada,False,False,False
+Sumatera Utara,Kabupaten Tapanuli Utara,Kabupaten (Proxy Desa),train,0,132,0.05,3.0,0.0,131.934,Open Dumping,Tidak ada,False,False,False
+Sulawesi Utara,Kabupaten Bolaang Mongondow Timur,Kabupaten (Proxy Desa),train,0,129,0.0,0.0,0.0,129.0,Tidak memiliki TPA,Tidak ada,False,False,False
+Sulawesi Utara,Kabupaten Bolaang Mongondow,Kabupaten (Proxy Desa),train,0,129,0.89,1.0,0.0,127.8519,Open Dumping,"Ada, belum final",False,False,False
+Maluku Utara,Kabupaten Halmahera Selatan,Kabupaten (Proxy Desa),train,0,129,1.01,0.0,0.0,127.6971,Open Dumping,"Ada, belum final",False,False,False
+Jambi,Kabupaten Batang Hari,Kabupaten (Proxy Desa),train,0,127,0.0,0.0,0.0,127.0,Controlled Landfill,Tidak ada,False,False,False
+Jambi,Kabupaten Sarolangun,Kabupaten (Proxy Desa),train,0,123,0.93,4.0,1.0,121.8561,Tidak diisi,Tidak diketahui,False,True,False
+Kalimantan Barat,Kabupaten Bengkayang,Kabupaten (Proxy Desa),train,0,120,0.0,0.0,0.0,120.0,Open Dumping,Tidak ada,False,False,False
+Sulawesi Utara,Kabupaten Minahasa Utara,Kabupaten (Proxy Desa),train,0,120,0.66,0.0,2.0,119.208,Open Dumping,"Ada, belum final",False,False,False
+Papua Tengah,Kabupaten Puncak Jaya,Kabupaten (Proxy Desa),train,0,118,0.0,0.0,0.0,118.0,Tidak diisi,Tidak ada,False,False,True
+Jambi,Kabupaten Tanjung Jabung Timur,Kabupaten (Proxy Desa),train,0,118,0.34,1.0,0.0,117.59880000000001,Open Dumping,Tidak ada,False,False,False
+Sulawesi Tengah,Kabupaten Toli-toli,Kabupaten (Proxy Desa),test,0,118,2.03,0.0,0.0,115.6046,Open Dumping,Tidak ada,False,False,False
+Lampung,Kabupaten Tulang Bawang Barat,Kabupaten (Proxy Desa),train,0,118,3.27,11.0,0.0,114.1414,Open Dumping,"Ada, belum final",False,False,False
+Papua Pegunungan,Kabupaten Jayawijaya,Kabupaten (Proxy Desa),train,0,113,0.0,0.0,0.0,113.0,Open Dumping,Tidak ada,False,False,False
+Aceh,Kabupaten Aceh Tengah,Kabupaten (Proxy Desa),train,0,121,8.76,0.0,0.0,110.4004,Open Dumping,Tidak ada,False,False,False
+Kalimantan Barat,Kabupaten Kapuas Hulu,Kabupaten (Proxy Desa),train,0,110,0.91,0.0,0.0,108.999,Open Dumping,Tidak ada,False,False,False
+Maluku,Kabupaten Seram Bagian Barat,Kabupaten (Proxy Desa),train,0,109,0.98,0.0,0.0,107.9318,Open Dumping,Tidak ada,False,False,False
+Bengkulu,Kabupaten Seluma,Kabupaten (Proxy Desa),train,0,108,0.47,4.0,1.0,107.49239999999999,Tidak diisi,Tidak diketahui,False,True,False
+Papua Barat,Kabupaten Manokwari,Kabupaten (Proxy Desa),test,0,104,0.0,4.0,1.0,104.0,Tidak diisi,Tidak ada,False,True,True
+Bengkulu,Kabupaten Mukomuko,Kabupaten (Proxy Desa),test,0,101,0.05,0.0,0.0,100.9495,Open Dumping,Tidak diketahui,False,False,False
+Papua Pegunungan,Kabupaten Tolikara,Kabupaten (Proxy Desa),train,0,99,0.0,4.0,1.0,99.0,Tidak diisi,Tidak ada,False,True,True
+Kepulauan Bangka Belitung,Kabupaten Belitung,Kabupaten (Proxy Desa),train,0,99,0.89,4.0,1.0,98.1189,Open Dumping,"Ada, belum final",False,False,False
+Lampung,Kabupaten Mesuji,Kabupaten (Proxy Desa),test,0,98,0.86,0.0,0.0,97.15719999999999,Open Dumping,"Ada, belum final",False,False,False
+Papua,Kabupaten Jayapura,Kabupaten (Proxy Desa),train,0,102,4.84,0.0,1.0,97.0632,Open Dumping,Tidak ada,False,False,False
+Sumatera Utara,Kota Gunungsitoli,Kota,train,0,97,0.05,1.0,0.0,96.95150000000001,Open Dumping,Tidak ada,False,False,False
+Aceh,Kabupaten Aceh Selatan,Kabupaten (Proxy Desa),train,0,97,0.55,0.0,2.0,96.46650000000001,Open Dumping,Tidak ada,False,False,False
+Sulawesi Barat,Kabupaten Majene,Kabupaten (Proxy Desa),train,0,96,1.04,4.0,1.0,95.0016,Open Dumping,"Ada, belum final",False,False,False
+Papua Selatan,Kabupaten Merauke,Kabupaten (Proxy Desa),train,0,102,9.26,1.0,0.0,92.5548,Tidak diisi,Tidak ada,False,False,False
+Kalimantan Barat,Kabupaten Melawi,Kabupaten (Proxy Desa),test,0,97,5.78,0.0,0.0,91.3934,Open Dumping,Tidak ada,False,False,False
+Kalimantan Timur,Kabupaten Kutai Barat,Kabupaten (Proxy Desa),train,0,93,1.87,6.0,1.0,91.26089999999999,Open Dumping,Disahkan,False,False,False
+Sumatera Utara,Kota Tanjung Balai,Kota,train,0,94,3.81,2.0,0.0,90.4186,Open Dumping,"Ada, belum final",False,False,False
+Aceh,Kota Lhokseumawe,Kota,train,0,102,12.45,0.0,0.0,89.30099999999999,Open Dumping,"Ada, belum final",False,False,False
+Kalimantan Barat,Kabupaten Sekadau,Kabupaten (Proxy Desa),train,0,90,1.05,0.0,0.0,89.055,Open Dumping,Tidak diketahui,False,False,False
+Bengkulu,Kabupaten Bengkulu Selatan,Kabupaten (Proxy Desa),train,0,87,0.0,0.0,0.0,87.0,Open Dumping,Tidak ada,False,False,False
+Kalimantan Tengah,Kabupaten Seruyan,Kabupaten (Proxy Desa),train,0,87,0.07,1.0,0.0,86.9391,Open Dumping,Tidak ada,False,False,False
+Kepulauan Bangka Belitung,Kabupaten Bangka Barat,Kabupaten (Proxy Desa),train,0,85,0.63,4.0,1.0,84.4645,Open Dumping,Tidak ada,False,False,False
+Sulawesi Barat,Kabupaten Mamasa,Kabupaten (Proxy Desa),train,0,84,0.29,0.0,0.0,83.7564,Open Dumping,Tidak ada,False,False,False
+Riau,Kabupaten Kepulauan Meranti,Kabupaten (Proxy Desa),train,0,85,1.74,1.0,1.0,83.521,Open Dumping,Tidak ada,False,True,True
+Kalimantan Barat,Kabupaten Mempawah,Kabupaten (Proxy Desa),train,0,82,0.0,1.0,0.0,82.0,Open Dumping,"Ada, belum final",False,False,False
+Sumatera Selatan,Kabupaten Penukal Abab Lematang Ilir,Kabupaten (Proxy Desa),train,0,84,4.17,0.0,1.0,80.4972,Open Dumping,Tidak ada,False,False,False
+Sumatera Selatan,Kabupaten Musi Rawas Utara,Kabupaten (Proxy Desa),train,0,81,1.84,0.0,0.0,79.5096,Open Dumping,Tidak ada,False,False,False
+Gorontalo,Kabupaten Boalemo,Kabupaten (Proxy Desa),train,0,76,0.0,0.0,0.0,76.0,Open Dumping,Tidak ada,False,False,False
+Sulawesi Tengah,Kabupaten Tojo Una-una,Kabupaten (Proxy Desa),train,0,86,11.88,0.0,0.0,75.7832,Controlled Landfill,Tidak ada,False,False,False
+Sulawesi Tengah,Kabupaten Buol,Kabupaten (Proxy Desa),train,0,77,2.13,0.0,0.0,75.3599,Open Dumping,Tidak ada,False,False,False
+Sulawesi Tengah,Kabupaten Morowali Utara,Kabupaten (Proxy Desa),train,0,75,0.39,0.0,0.0,74.7075,Tidak memiliki TPA,Tidak ada,False,False,False
+Papua Tengah,Kabupaten Intan Jaya,Kabupaten (Proxy Desa),train,0,72,0.0,0.0,0.0,72.0,Tidak diisi,Tidak ada,False,False,True
+Kalimantan Tengah,Kabupaten Pulang Pisau,Kabupaten (Proxy Desa),test,0,72,0.9,2.0,0.0,71.352,Open Dumping,Tidak ada,False,False,False
+Kalimantan Tengah,Kabupaten Barito Timur,Kabupaten (Proxy Desa),train,0,73,2.33,1.0,0.0,71.2991,Open Dumping,Tidak ada,False,False,False
+Sulawesi Selatan,Kabupaten Kepulauan Selayar,Kabupaten (Proxy Desa),train,0,72,1.45,0.0,1.0,70.956,Open Dumping,Tidak ada,False,False,False
+Maluku,Kabupaten Seram Bagian Timur,Kabupaten (Proxy Desa),train,0,70,0.0,0.0,0.0,70.0,Open Dumping,Tidak ada,False,False,False
+Papua Tengah,Kabupaten Nabire,Kabupaten (Proxy Desa),test,0,71,2.25,0.0,0.0,69.4025,Open Dumping,Tidak ada,False,False,False
+Maluku Utara,Kabupaten Halmahera Barat,Kabupaten (Proxy Desa),train,0,70,1.24,0.0,1.0,69.132,Open Dumping,Tidak ada,False,False,False
+Lampung,Kabupaten Pesisir Barat,Kabupaten (Proxy Desa),train,0,69,0.4,0.0,0.0,68.724,Open Dumping,Tidak ada,False,False,False
+Kalimantan Barat,Kabupaten Kayong Utara,Kabupaten (Proxy Desa),train,0,68,0.0,0.0,0.0,68.0,Open Dumping,"Ada, belum final",False,False,False
+Aceh,Kabupaten Aceh Barat Daya,Kabupaten (Proxy Desa),test,0,78,13.56,0.0,0.0,67.42320000000001,Open Dumping,Tidak ada,False,False,False
+Kalimantan Tengah,Kabupaten Katingan,Kabupaten (Proxy Desa),train,0,68,1.31,2.0,1.0,67.1092,Open Dumping,Tidak ada,False,False,False
+Gorontalo,Kabupaten Gorontalo Utara,Kabupaten (Proxy Desa),test,0,67,0.0,0.0,0.0,67.0,Open Dumping,Tidak ada,False,False,False
+Kalimantan Tengah,Kabupaten Gunung Mas,Kabupaten (Proxy Desa),train,0,67,0.0,0.0,0.0,67.0,Open Dumping,Tidak ada,False,False,False
+Kalimantan Tengah,Kabupaten Barito Selatan,Kabupaten (Proxy Desa),train,0,68,1.89,2.0,1.0,66.7148,Open Dumping,Tidak ada,False,False,False
+Nusa Tenggara Timur,Kabupaten Sumba Barat,Kabupaten (Proxy Desa),train,0,78,16.1,0.0,0.0,65.442,Open Dumping,Tidak ada,False,False,False
+Maluku,Kabupaten Buru,Kabupaten (Proxy Desa),test,0,71,8.15,0.0,0.0,65.2135,Open Dumping,Tidak ada,False,False,False
+Aceh,Kabupaten Pidie Jaya,Kabupaten (Proxy Desa),train,0,66,1.51,0.0,0.0,65.0034,Open Dumping,Tidak ada,False,False,False
+Maluku,Kabupaten Tanimbar,Kabupaten (Proxy Desa),train,0,65,0.12,0.0,0.0,64.922,Open Dumping,Tidak ada,False,False,False
+Maluku,Kabupaten Maluku Tenggara,Kabupaten (Proxy Desa),train,0,65,0.77,0.0,0.0,64.4995,Open Dumping,Tidak ada,False,False,False
+Kalimantan Tengah,Kabupaten Barito Utara,Kabupaten (Proxy Desa),train,0,65,1.68,2.0,1.0,63.907999999999994,Open Dumping,Tidak ada,False,False,False
+Sumatera Utara,Kabupaten Nias Utara,Kabupaten (Proxy Desa),test,0,63,0.0,0.0,0.0,63.0,Tidak memiliki TPA,Tidak ada,False,False,False
+Papua Tengah,Kabupaten Dogiyai,Kabupaten (Proxy Desa),train,0,63,0.0,0.0,0.0,63.0,Tidak diisi,Tidak ada,False,False,True
+Bengkulu,Kabupaten Kepahiang,Kabupaten (Proxy Desa),train,0,62,1.29,1.0,0.0,61.200199999999995,Open Dumping,Tidak ada,False,False,False
+Papua Tengah,Kabupaten Puncak,Kabupaten (Proxy Desa),train,0,61,0.0,0.0,0.0,61.0,Tidak diisi,Tidak ada,False,False,True
+Sulawesi Tenggara,Kabupaten Buton,Kabupaten (Proxy Desa),train,0,61,0.0,0.0,0.0,61.0,Open Dumping,Tidak ada,False,False,False
+Sulawesi Tengah,Kabupaten Banggai Kepulauan,Kabupaten (Proxy Desa),train,0,61,0.05,0.0,0.0,60.969500000000004,Open Dumping,Tidak ada,False,False,False
+Bengkulu,Kabupaten Bengkulu Tengah,Kabupaten (Proxy Desa),train,0,61,1.57,0.0,0.0,60.0423,Tidak memiliki TPA,Tidak ada,False,False,False
+Sulawesi Tenggara,Kabupaten Buton Tengah,Kabupaten (Proxy Desa),test,0,60,0.0,0.0,0.0,60.0,Tidak memiliki TPA,Tidak ada,False,False,False
+Sulawesi Tenggara,Kabupaten Kolaka Timur,Kabupaten (Proxy Desa),train,0,65,9.26,0.0,0.0,58.981,Controlled Landfill,"Ada, belum final",False,False,False
+Sumatera Utara,Kabupaten Nias,Kabupaten (Proxy Desa),test,0,59,0.59,0.0,0.0,58.6519,Open Dumping,Tidak ada,False,False,False
+Papua Selatan,Kabupaten Asmat,Kabupaten (Proxy Desa),test,0,58,0.0,0.0,0.0,58.0,Open Dumping,Tidak ada,False,False,False
+Nusa Tenggara Barat,Kabupaten Sumbawa Barat,Kabupaten (Proxy Desa),test,0,64,12.15,2.0,0.0,56.224000000000004,Open Dumping,"Ada, belum final",False,False,False
+Maluku,Kabupaten Kepulauan Aru,Kabupaten (Proxy Desa),test,0,56,1.6,0.0,0.0,55.104,Open Dumping,Tidak ada,False,False,False
+Papua Selatan,Kabupaten Mappi,Kabupaten (Proxy Desa),train,0,55,0.0,0.0,0.0,55.0,Tidak diisi,Tidak ada,False,False,True
+Papua Tengah,Kabupaten Deiyai,Kabupaten (Proxy Desa),train,0,53,0.0,0.0,0.0,53.0,Tidak diisi,Tidak ada,False,False,True
+Maluku Utara,Kabupaten Kepulauan Sula,Kabupaten (Proxy Desa),train,0,53,0.0,0.0,0.0,53.0,Open Dumping,Tidak ada,False,False,False
+Aceh,Kabupaten Aceh Singkil,Kabupaten (Proxy Desa),train,0,55,4.35,1.0,1.0,52.6075,Open Dumping,Tidak ada,False,False,False
+Kepulauan Bangka Belitung,Kabupaten Belitung Timur,Kabupaten (Proxy Desa),train,0,53,1.08,2.0,1.0,52.4276,Open Dumping,"Ada, belum final",False,False,False
+Sulawesi Tenggara,Kabupaten Buton Selatan,Kabupaten (Proxy Desa),train,0,51,0.0,0.0,0.0,51.0,Open Dumping,Tidak ada,False,False,False
+Aceh,Kota Subulussalam,Kota,train,0,53,4.17,0.0,0.0,50.7899,Open Dumping,Tidak ada,False,False,False
+Aceh,Kabupaten Aceh Jaya,Kabupaten (Proxy Desa),train,0,51,1.69,0.0,0.0,50.1381,Open Dumping,Tidak ada,False,False,False
+Papua Tengah,Kabupaten Paniai,Kabupaten (Proxy Desa),train,0,50,0.0,0.0,0.0,50.0,Open Dumping,Tidak ada,False,False,False
+Maluku Utara,Kabupaten Halmahera Timur,Kabupaten (Proxy Desa),train,0,50,4.68,0.0,0.0,47.660000000000004,Open Dumping,Tidak ada,False,False,False
+Papua,Kabupaten Kepulauan Yapen,Kabupaten (Proxy Desa),train,0,46,0.0,0.0,0.0,46.0,Open Dumping,Tidak ada,False,False,False
+Bengkulu,Kabupaten Lebong,Kabupaten (Proxy Desa),train,0,46,0.0,0.0,0.0,46.0,Open Dumping,Tidak ada,False,False,False
+Papua Pegunungan,Kabupaten Yalimo,Kabupaten (Proxy Desa),train,0,43,0.0,0.0,0.0,43.0,Tidak diisi,Tidak ada,False,False,False
+Kalimantan Tengah,Kabupaten Lamandau,Kabupaten (Proxy Desa),train,0,43,1.12,3.0,1.0,42.5184,Open Dumping,Tidak ada,False,False,False
+Aceh,Kabupaten Gayo Lues,Kabupaten (Proxy Desa),train,0,42,0.0,0.0,0.0,42.0,Open Dumping,Tidak ada,False,False,False
+Sumatera Utara,Kota Sibolga,Kota,train,0,41,0.65,0.0,1.0,40.7335,Open Dumping,Tidak ada,False,False,False
+Sulawesi Utara,Kabupaten Kepulauan Talaud,Kabupaten (Proxy Desa),train,0,40,0.0,0.0,0.0,40.0,Open Dumping,Tidak ada,False,False,False
+Sulawesi Tenggara,Kabupaten Konawe Utara,Kabupaten (Proxy Desa),train,0,39,0.0,0.0,0.0,39.0,Open Dumping,Tidak ada,False,False,False
+Sumatera Utara,Kabupaten Nias Barat,Kabupaten (Proxy Desa),test,0,39,0.25,0.0,0.0,38.9025,Tidak memiliki TPA,Tidak ada,False,False,False
+Maluku,Kabupaten Maluku Barat Daya,Kabupaten (Proxy Desa),train,0,38,0.0,0.0,0.0,38.0,Tidak memiliki TPA,Tidak ada,False,False,False
+Papua Barat,Kabupaten Fakfak,Kabupaten (Proxy Desa),train,0,38,0.32,0.0,1.0,37.8784,Tidak diisi,Tidak ada,False,False,False
+Sumatera Barat,Kabupaten Kepulauan Mentawai,Kabupaten (Proxy Desa),train,0,39,4.52,1.0,0.0,37.2372,Tidak memiliki TPA,"Ada, belum final",False,False,False
+Sulawesi Tenggara,Kabupaten Buton Utara,Kabupaten (Proxy Desa),test,0,37,0.0,0.0,0.0,37.0,Open Dumping,Tidak ada,False,False,False
+Sulawesi Tenggara,Kabupaten Muna Barat,Kabupaten (Proxy Desa),train,0,37,0.0,0.0,0.0,37.0,Tidak memiliki TPA,Tidak ada,False,False,False
+Maluku,Kota Tual,Kota,train,0,37,0.38,0.0,0.0,36.8594,Open Dumping,"Ada, belum final",False,False,False
+Papua Barat,Kabupaten Teluk Bintuni,Kabupaten (Proxy Desa),train,0,36,0.0,0.0,0.0,36.0,Tidak diisi,Tidak ada,False,False,True
+Sulawesi Utara,Kabupaten Bolaang Mongondow Utara,Kabupaten (Proxy Desa),train,0,34,0.44,1.0,1.0,33.8504,Open Dumping,Tidak ada,False,False,False
+Kalimantan Utara,Kabupaten Malinau,Kabupaten (Proxy Desa),train,0,34,0.97,2.0,0.0,33.6702,Open Dumping,Tidak ada,False,False,False
+Papua Pegunungan,Kabupaten Pegunungan Bintang,Kabupaten (Proxy Desa),train,0,33,0.0,4.0,1.0,33.0,Tidak diisi,Tidak ada,False,True,False
+Kepulauan Riau,Kabupaten Natuna,Kabupaten (Proxy Desa),train,0,33,0.0,8.0,0.0,33.0,Open Dumping,Tidak ada,False,False,False
+Maluku Utara,Kabupaten Pulau Taliabu,Kabupaten (Proxy Desa),test,0,33,0.0,0.0,0.0,33.0,Open Dumping,Tidak ada,False,False,False
+Maluku,Kabupaten Buru Selatan,Kabupaten (Proxy Desa),train,0,33,0.0,0.0,0.0,33.0,Open Dumping,Tidak ada,False,False,False
+Maluku Utara,Kabupaten Pulau Morotai,Kabupaten (Proxy Desa),train,0,33,3.01,0.0,0.0,32.0067,Open Dumping,Tidak ada,False,False,False
+Sulawesi Tengah,Kabupaten Banggai Laut,Kabupaten (Proxy Desa),train,0,31,1.94,0.0,0.0,30.398600000000002,Open Dumping,Tidak ada,False,False,False
+Papua Selatan,Kabupaten Boven Digoel,Kabupaten (Proxy Desa),train,0,29,0.28,0.0,0.0,28.9188,Tidak diisi,Tidak ada,False,False,True
+Sulawesi Utara,Kabupaten Siau Tagulandang Biaro,Kabupaten (Proxy Desa),train,0,28,0.04,1.0,0.0,27.9888,Open Dumping,Tidak ada,False,False,False
+Papua Barat Daya,Kabupaten Raja Ampat,Kabupaten (Proxy Desa),train,0,29,7.2,12.0,0.0,26.912,Tidak diisi,Tidak ada,False,False,False
+Sulawesi Utara,Kabupaten Bolaang Mongondow Selatan,Kabupaten (Proxy Desa),train,0,30,10.45,0.0,0.0,26.865,Controlled Landfill,Tidak ada,False,False,False
+Papua Barat,Kabupaten Kaimana,Kabupaten (Proxy Desa),train,0,26,0.0,4.0,1.0,26.0,Tidak diisi,Tidak ada,False,True,True
+Nusa Tenggara Timur,Kabupaten Sabu Raijua,Kabupaten (Proxy Desa),train,0,28,21.17,0.0,0.0,22.072400000000002,Tidak memiliki TPA,Tidak ada,False,False,False
+Sulawesi Tenggara,Kabupaten Konawe Kepulauan,Kabupaten (Proxy Desa),train,0,22,0.0,0.0,0.0,22.0,Tidak memiliki TPA,Tidak ada,False,False,False
+Papua Barat Daya,Kabupaten Sorong Selatan,Kabupaten (Proxy Desa),train,0,22,0.0,0.0,0.0,22.0,Tidak diisi,Tidak ada,False,False,True
+Papua Pegunungan,Kabupaten Mamberamo Tengah,Kabupaten (Proxy Desa),train,0,21,0.0,4.0,1.0,21.0,Tidak diisi,Tidak ada,False,True,True
+Sumatera Utara,Kabupaten Pakpak Bharat,Kabupaten (Proxy Desa),test,0,23,13.84,1.0,0.0,19.8168,Open Dumping,Tidak ada,False,False,False
+Kalimantan Timur,Kabupaten Mahakam Hulu,Kabupaten (Proxy Desa),train,0,19,0.0,0.0,0.0,19.0,Tidak memiliki TPA,"Ada, belum final",False,False,False
+Papua Barat Daya,Kabupaten Maybrat,Kabupaten (Proxy Desa),train,0,19,0.0,4.0,1.0,19.0,Tidak diisi,Tidak ada,False,True,True
+Papua,Kabupaten Sarmi,Kabupaten (Proxy Desa),train,0,17,0.0,4.0,1.0,17.0,Tidak diisi,Tidak ada,False,True,True
+Papua Barat,Kabupaten Teluk Wondama,Kabupaten (Proxy Desa),test,0,16,0.0,0.0,0.0,16.0,Tidak diisi,Tidak ada,False,False,False
+Papua Barat,Kabupaten Pegunungan Arfak,Kabupaten (Proxy Desa),train,0,16,0.0,0.0,0.0,16.0,Tidak diisi,Tidak ada,False,False,True
+Papua Barat Daya,Kabupaten Tambrauw,Kabupaten (Proxy Desa),train,0,16,0.0,4.0,1.0,16.0,Tidak diisi,Tidak ada,False,True,True
+Papua,Kabupaten Mamberamo Raya,Kabupaten (Proxy Desa),test,0,16,0.0,4.0,1.0,16.0,Tidak diisi,Tidak ada,False,True,True
+Papua Barat,Kabupaten Manokwari Selatan,Kabupaten (Proxy Desa),train,0,16,0.0,0.0,0.0,16.0,Tidak diisi,Tidak ada,False,False,False
+Papua,Kabupaten Waropen,Kabupaten (Proxy Desa),train,0,15,0.0,0.0,0.0,15.0,Tidak diisi,Tidak ada,False,False,True
+Kepulauan Riau,Kabupaten Kepulauan Anambas,Kabupaten (Proxy Desa),train,0,15,14.23,4.0,0.0,12.8655,Tidak memiliki TPA,Tidak ada,False,False,False
+Papua,Kabupaten Supiori,Kabupaten (Proxy Desa),train,0,10,0.0,0.0,0.0,10.0,Open Dumping,Tidak ada,False,False,False
+Aceh,Kabupaten Simeulue,Kabupaten (Proxy Desa),test,0,0,13.0,4.0,1.0,0.0,Tidak diisi,Tidak diketahui,True,True,False
+Lampung,Kabupaten Lampung Tengah,Kabupaten (Proxy Desa),train,1,694,9.79,6.0,0.0,626.0574,Open Dumping,Tidak ada,False,False,False
+Banten,Kabupaten Lebak,Kabupaten (Proxy Desa),train,1,613,22.93,2.0,1.0,472.43909999999994,Open Dumping,Tidak ada,False,False,False
+Jawa Tengah,Kabupaten Batang,Kabupaten (Proxy Desa),train,1,472,5.02,14.0,0.0,448.30559999999997,Open Dumping,"Ada, belum final",False,False,False
+Sumatera Selatan,Kabupaten Ogan Komering Ilir,Kabupaten (Proxy Desa),train,1,324,5.4,4.0,1.0,306.50399999999996,Tidak diisi,Tidak diketahui,False,True,False
+Jawa Timur,Kabupaten Sumenep,Kabupaten (Proxy Desa),train,1,361,17.3,4.0,1.0,298.54699999999997,Tidak diisi,Tidak diketahui,False,True,False
+Riau,Kabupaten Rokan Hilir,Kabupaten (Proxy Desa),train,1,347,16.06,10.0,1.0,291.2718,Controlled Landfill,Disahkan,False,False,False
+Riau,Kabupaten Indragiri Hilir,Kabupaten (Proxy Desa),test,1,348,18.71,1.0,1.0,282.88919999999996,Open Dumping,Tidak ada,False,False,False
+Nusa Tenggara Barat,Kabupaten Sumbawa,Kabupaten (Proxy Desa),train,1,290,3.09,1.0,2.0,281.039,Open Dumping,Tidak ada,False,False,False
+Nusa Tenggara Barat,Kabupaten Lombok Tengah,Kabupaten (Proxy Desa),train,1,451,38.75,5.0,1.0,276.2375,Controlled Landfill,Tidak ada,False,False,False
+Riau,Kabupaten Rokan Hulu,Kabupaten (Proxy Desa),train,1,283,7.11,1.0,1.0,262.87870000000004,Open Dumping,Tidak ada,False,False,False
+Lampung,Kabupaten Lampung Utara,Kabupaten (Proxy Desa),train,1,267,8.11,4.0,0.0,245.3463,Open Dumping,Tidak ada,False,False,False
+Jawa Tengah,Kabupaten Rembang,Kabupaten (Proxy Desa),train,1,273,14.28,35.0,0.0,234.01559999999998,Open Dumping,Disahkan,False,False,False
+Kepulauan Riau,Kabupaten Karimun,Kabupaten (Proxy Desa),train,1,254,10.01,4.0,1.0,228.5746,Open Dumping,Tidak ada,False,False,False
+Riau,Kabupaten Bengkalis,Kabupaten (Proxy Desa),train,1,273,17.88,8.0,1.0,224.1876,Controlled Landfill,Tidak ada,False,False,False
+Sumatera Barat,Kabupaten Padang Pariaman,Kabupaten (Proxy Desa),train,1,248,9.81,3.0,1.0,223.6712,Open Dumping,"Ada, belum final",False,False,False
+Nusa Tenggara Barat,Kabupaten Lombok Barat,Kabupaten (Proxy Desa),train,1,305,28.88,3.0,3.0,216.91600000000003,Controlled Landfill,"Ada, belum final",False,False,False
+Jawa Timur,Kabupaten Sampang,Kabupaten (Proxy Desa),train,1,241,10.58,10.0,1.0,215.5022,Controlled Landfill,"Ada, belum final",False,False,False
+Jawa Timur,Kabupaten Pacitan,Kabupaten (Proxy Desa),train,1,300,31.44,4.0,1.0,205.68,Controlled Landfill,Tidak ada,False,False,False
+Nusa Tenggara Timur,Kota Kupang,Kota,train,1,237,13.32,17.0,1.0,205.4316,Open Dumping,Tidak ada,False,False,False
+Sulawesi Tengah,Kabupaten Parigi Moutong,Kabupaten (Proxy Desa),train,1,232,12.93,5.0,1.0,202.0024,Controlled Landfill,Tidak diketahui,False,False,False
+Kalimantan Tengah,Kabupaten Kapuas,Kabupaten (Proxy Desa),test,1,215,11.54,2.0,1.0,190.18900000000002,Controlled Landfill,Tidak ada,False,False,False
+Jambi,Kabupaten Muaro Jambi,Kabupaten (Proxy Desa),train,1,214,11.89,10.0,0.0,188.5554,Open Dumping,"Ada, belum final",False,False,False
+Lampung,Kabupaten Pesawaran,Kabupaten (Proxy Desa),train,1,198,7.11,22.0,1.0,183.9222,Open Dumping,"Ada, belum final",False,False,False
+Riau,Kabupaten Pelalawan,Kabupaten (Proxy Desa),train,1,174,2.49,3.0,1.0,169.6674,Open Dumping,Tidak ada,False,False,False
+Sumatera Selatan,Kabupaten Musi Banyuasin,Kabupaten (Proxy Desa),train,1,270,38.75,17.0,1.0,165.375,Controlled Landfill,Tidak diketahui,False,False,False
+Lampung,Kabupaten Tulang Bawang,Kabupaten (Proxy Desa),test,1,180,10.13,3.0,0.0,161.76600000000002,Controlled Landfill,Tidak ada,False,False,False
+Jawa Barat,Kota Sukabumi,Kota,train,1,186,14.23,3.0,1.0,159.53220000000002,Open Dumping,"Ada, belum final",False,False,False
+Aceh,Kabupaten Pidie,Kabupaten (Proxy Desa),train,1,181,12.34,2.0,0.0,158.6646,Open Dumping,"Ada, belum final",False,False,False
+Sumatera Barat,Kabupaten Agam,Kabupaten (Proxy Desa),train,1,232,33.79,1.0,1.0,153.6072,Controlled Landfill,"Ada, belum final",False,False,False
+Sulawesi Selatan,Kabupaten Bulukumba,Kabupaten (Proxy Desa),test,1,192,22.1,4.0,1.0,149.568,Tidak diisi,Tidak diketahui,False,True,False
+Kalimantan Utara,Kota Tarakan,Kota,train,1,179,17.88,3.0,0.0,146.9948,Open Dumping,Tidak ada,False,False,False
+Riau,Kabupaten Indragiri Hulu,Kabupaten (Proxy Desa),train,1,195,25.01,3.0,1.0,146.2305,Open Dumping,Tidak ada,False,False,False
+Sumatera Barat,Kabupaten Lima Puluh Kota,Kabupaten (Proxy Desa),train,1,164,11.3,2.0,1.0,145.468,Tidak memiliki TPA,Tidak ada,False,False,False
+Sumatera Selatan,Kabupaten Ogan Komering Ulu Timur,Kabupaten (Proxy Desa),train,1,278,48.51,7.0,1.0,143.1422,Controlled Landfill,"Ada, belum final",False,False,False
+Papua Barat Daya,Kota Sorong,Kota,test,1,172,17.15,8.0,1.0,142.502,Tidak diisi,Tidak ada,False,False,False
+Sulawesi Barat,Kabupaten Mamuju,Kabupaten (Proxy Desa),test,1,149,5.15,23.0,1.0,141.3265,Open Dumping,Tidak ada,False,False,False
+Jambi,Kabupaten Bungo,Kabupaten (Proxy Desa),test,1,190,26.33,11.0,2.0,139.973,Controlled Landfill,"Ada, belum final",False,False,False
+Sumatera Utara,Kota Padangsidimpuan,Kota,train,1,165,15.78,2.0,1.0,138.96300000000002,Open Dumping,Tidak ada,False,False,False
+Sumatera Selatan,Kabupaten Musi Rawas,Kabupaten (Proxy Desa),train,1,172,20.06,3.0,1.0,137.4968,Open Dumping,Disahkan,False,False,False
+Kalimantan Timur,Kabupaten Berau,Kabupaten (Proxy Desa),test,1,150,10.86,12.0,1.0,133.71,Open Dumping,"Ada, belum final",False,False,False
+Gorontalo,Kabupaten Gorontalo,Kabupaten (Proxy Desa),train,1,169,21.37,1.0,5.0,132.8847,Controlled Landfill,Tidak ada,False,False,False
+Kepulauan Bangka Belitung,Kabupaten Bangka,Kabupaten (Proxy Desa),train,1,139,7.12,6.0,1.0,129.1032,Open Dumping,Tidak ada,False,False,False
+Sulawesi Selatan,Kabupaten Sinjai,Kabupaten (Proxy Desa),train,1,138,9.42,6.0,1.0,125.00039999999998,Open Dumping,"Ada, belum final",False,False,False
+Sumatera Utara,Kabupaten Labuhan Batu Selatan,Kabupaten (Proxy Desa),train,1,132,5.74,11.0,1.0,124.4232,Open Dumping,Tidak ada,False,False,False
+Sulawesi Utara,Kota Bitung,Kota,train,1,129,4.94,4.0,1.0,122.6274,Open Dumping,Tidak diketahui,False,False,False
+Sumatera Utara,Kota Binjai,Kota,train,1,154,21.43,5.0,1.0,120.99780000000001,Open Dumping,Tidak ada,False,False,False
+Kalimantan Selatan,Kabupaten Kota Baru,Kabupaten (Proxy Desa),train,1,132,8.35,3.0,1.0,120.978,Open Dumping,"Ada, belum final",False,False,False
+Aceh,Kabupaten Bireuen,Kabupaten (Proxy Desa),train,1,181,33.45,15.0,0.0,120.4555,Open Dumping,Tidak ada,False,False,False
+Sumatera Barat,Kabupaten Solok,Kabupaten (Proxy Desa),train,1,164,26.92,7.0,1.0,119.8512,Controlled Landfill,Tidak ada,False,False,False
+Sulawesi Tengah,Kabupaten Donggala,Kabupaten (Proxy Desa),train,1,157,24.81,3.0,1.0,118.0483,Controlled Landfill,Tidak ada,False,False,False
+Sumatera Barat,Kota Bukittinggi,Kota,train,1,136,14.11,3.0,1.0,116.8104,Tidak memiliki TPA,"Ada, belum final",False,False,False
+Sumatera Barat,Kabupaten Pesisir Selatan,Kabupaten (Proxy Desa),train,1,162,28.07,8.0,1.0,116.5266,Controlled Landfill,"Ada, belum final",False,False,False
+Sumatera Selatan,Kabupaten Muara Enim,Kabupaten (Proxy Desa),train,1,238,51.62,2.0,1.0,115.1444,Controlled Landfill,Tidak diketahui,False,False,False
+Sulawesi Tenggara,Kabupaten Konawe,Kabupaten (Proxy Desa),test,1,133,14.09,4.0,1.0,114.2603,Tidak diisi,Tidak diketahui,False,True,False
+Jawa Barat,Kabupaten Pangandaran,Kabupaten (Proxy Desa),train,1,178,36.53,27.0,1.0,112.9766,Open Dumping,Tidak ada,False,False,False
+Papua Tengah,Kabupaten Mimika,Kabupaten (Proxy Desa),train,1,197,43.75,0.0,1.0,110.8125,Open Dumping,Tidak ada,False,False,False
+Kepulauan Riau,Kota Tanjung Pinang,Kota,test,1,156,29.0,32.0,1.0,110.75999999999999,Open Dumping,"Ada, belum final",False,False,False
+Sulawesi Tenggara,Kabupaten Muna,Kabupaten (Proxy Desa),train,1,114,3.8,1.0,1.0,109.66799999999999,Open Dumping,Tidak diketahui,False,False,False
+Riau,Kabupaten Kuantan Singingi,Kabupaten (Proxy Desa),train,1,146,25.34,1.0,1.0,109.00359999999999,Controlled Landfill,"Ada, belum final",False,False,False
+Bali,Kabupaten Jembrana,Kabupaten (Proxy Desa),train,1,164,34.59,4.0,0.0,107.27239999999999,Open Dumping,"Ada, belum final",False,False,False
+Nusa Tenggara Timur,Kabupaten Sikka,Kabupaten (Proxy Desa),train,1,139,23.14,0.0,0.0,106.83539999999999,Open Dumping,Tidak ada,False,False,False
+Kalimantan Selatan,Kabupaten Tanah Laut,Kabupaten (Proxy Desa),train,1,146,28.56,15.0,1.0,104.3024,Controlled Landfill,"Ada, belum final",False,False,False
+Kepulauan Bangka Belitung,Kota Pangkal Pinang,Kota,train,1,106,4.94,2.0,1.0,100.7636,Open Dumping,Disahkan,False,False,False
+Sumatera Barat,Kabupaten Pasaman,Kabupaten (Proxy Desa),train,1,127,21.93,6.0,2.0,99.1489,Open Dumping,Tidak ada,False,False,False
+Maluku Utara,Kota Ternate,Kota,train,1,105,5.74,2.0,2.0,98.973,Open Dumping,Disahkan,False,False,False
+Lampung,Kota Metro,Kota,train,1,112,11.98,23.0,1.0,98.58239999999999,Open Dumping,Tidak ada,False,False,False
+Jawa Timur,Kota Madiun,Kota,train,1,111,11.21,30.0,1.0,98.5569,Open Dumping,"Ada, belum final",False,False,False
+Sulawesi Selatan,Kabupaten Maros,Kabupaten (Proxy Desa),train,1,207,52.54,10.0,1.0,98.24220000000001,Controlled Landfill,"Ada, belum final",False,False,False
+Jawa Tengah,Kota Pekalongan,Kota,train,1,162,39.85,29.0,1.0,97.44299999999998,Open Dumping,"Ada, belum final",False,False,False
+Jambi,Kabupaten Tebo,Kabupaten (Proxy Desa),train,1,143,32.82,3.0,0.0,96.06739999999999,Controlled Landfill,Tidak ada,False,False,False
+Sulawesi Tengah,Kabupaten Sigi,Kabupaten (Proxy Desa),test,1,139,31.41,5.0,1.0,95.34009999999999,Controlled Landfill,Tidak ada,False,False,False
+Sulawesi Utara,Kabupaten Minahasa Selatan,Kabupaten (Proxy Desa),train,1,98,3.06,3.0,1.0,95.0012,Open Dumping,Tidak ada,False,False,False
+Kepulauan Bangka Belitung,Kabupaten Bangka Tengah,Kabupaten (Proxy Desa),train,1,116,18.6,8.0,0.0,94.42399999999999,Open Dumping,Tidak ada,False,False,False
+Nusa Tenggara Timur,Kabupaten Manggarai,Kabupaten (Proxy Desa),train,1,136,30.61,0.0,0.0,94.37039999999999,Open Dumping,"Ada, belum final",False,False,False
+Jawa Timur,Kota Probolinggo,Kota,test,1,122,22.88,48.0,1.0,94.0864,Open Dumping,"Ada, belum final",False,False,False
+Sumatera Barat,Kabupaten Dharmasraya,Kabupaten (Proxy Desa),train,1,122,24.47,2.0,2.0,92.14659999999999,Open Dumping,Tidak ada,False,False,False
+Nusa Tenggara Timur,Kabupaten Timor Tengah Selatan,Kabupaten (Proxy Desa),train,1,196,53.06,2.0,0.0,92.00239999999998,Open Dumping,Tidak ada,False,False,False
+Nusa Tenggara Barat,Kabupaten Lombok Utara,Kabupaten (Proxy Desa),train,1,105,12.85,2.0,0.0,91.5075,Open Dumping,Tidak ada,False,False,False
+Lampung,Kabupaten Lampung Barat,Kabupaten (Proxy Desa),train,1,126,28.1,0.0,1.0,90.594,Controlled Landfill,Tidak diketahui,False,False,False
+Sulawesi Tengah,Kabupaten Poso,Kabupaten (Proxy Desa),train,1,128,30.09,4.0,1.0,89.4848,Tidak diisi,Tidak diketahui,False,True,False
+Aceh,Kabupaten Aceh Tamiang,Kabupaten (Proxy Desa),train,1,124,28.12,2.0,1.0,89.13119999999999,Sanitary Landfill,Tidak ada,False,False,False
+Maluku Utara,Kabupaten Halmahera Utara,Kabupaten (Proxy Desa),test,1,103,14.34,0.0,1.0,88.2298,Open Dumping,Tidak ada,False,False,False
+Nusa Tenggara Timur,Kabupaten Sumba Barat Daya,Kabupaten (Proxy Desa),test,1,129,32.49,0.0,0.0,87.0879,Open Dumping,Tidak ada,False,False,False
+Sulawesi Selatan,Kabupaten Toraja Utara,Kabupaten (Proxy Desa),train,1,133,35.04,2.0,0.0,86.3968,Controlled Landfill,Tidak ada,False,False,False
+Nusa Tenggara Timur,Kabupaten Sumba Timur,Kabupaten (Proxy Desa),train,1,111,22.33,0.0,0.0,86.2137,Open Dumping,Tidak ada,False,False,False
+Jawa Timur,Kota Mojokerto,Kota,train,1,99,13.17,82.0,1.0,85.9617,Open Dumping,Disahkan,False,False,False
+Sulawesi Selatan,Kota Palopo,Kota,train,1,91,5.69,33.0,1.0,85.8221,Open Dumping,Tidak ada,False,False,False
+Kalimantan Barat,Kota Singkawang,Kota,train,1,97,11.87,2.0,1.0,85.4861,Open Dumping,Tidak ada,False,False,False
+Sulawesi Selatan,Kabupaten Wajo,Kabupaten (Proxy Desa),train,1,205,58.75,9.0,1.0,84.5625,Controlled Landfill,Tidak ada,False,False,False
+Aceh,Kabupaten Aceh Tenggara,Kabupaten (Proxy Desa),test,1,116,28.36,0.0,0.0,83.10239999999999,Open Dumping,"Ada, belum final",False,False,False
+Sumatera Selatan,Kota Prabumulih,Kota,train,1,102,21.86,34.0,1.0,79.7028,Open Dumping,Tidak ada,False,False,False
+Sulawesi Selatan,Kabupaten Pinrang,Kabupaten (Proxy Desa),train,1,239,66.8,19.0,1.0,79.34800000000001,Controlled Landfill,Disahkan,False,False,False
+Jawa Tengah,Kota Magelang,Kota,train,1,85,7.02,88.0,1.0,79.033,Open Dumping,"Ada, belum final",False,False,False
+Kalimantan Selatan,Kabupaten Hulu Sungai Utara,Kabupaten (Proxy Desa),train,1,119,33.69,6.0,1.0,78.9089,Controlled Landfill,Tidak ada,False,False,False
+Jambi,Kabupaten Kerinci,Kabupaten (Proxy Desa),train,1,128,38.91,1.0,2.0,78.1952,Controlled Landfill,Tidak ada,False,False,False
+Sumatera Barat,Kota Payakumbuh,Kota,train,1,98,20.77,4.0,1.0,77.6454,Tidak diisi,Tidak diketahui,False,True,False
+Sumatera Selatan,Kabupaten Ogan Komering Ulu Selatan,Kabupaten (Proxy Desa),test,1,169,54.76,1.0,0.0,76.4556,Controlled Landfill,Tidak ada,False,False,False
+Sumatera Selatan,Kabupaten Lahat,Kabupaten (Proxy Desa),test,1,180,58.37,3.0,1.0,74.934,Controlled Landfill,Disahkan,False,False,False
+Nusa Tenggara Timur,Kabupaten Kupang,Kabupaten (Proxy Desa),train,1,156,52.32,0.0,1.0,74.3808,Tidak memiliki TPA,Tidak ada,False,False,False
+Nusa Tenggara Timur,Kabupaten Flores Timur,Kabupaten (Proxy Desa),train,1,117,36.74,1.0,0.0,74.0142,Open Dumping,Tidak ada,False,False,False
+Kalimantan Selatan,Kabupaten Tapin,Kabupaten (Proxy Desa),train,1,76,3.77,9.0,1.0,73.1348,Open Dumping,Tidak diketahui,False,False,False
+Nusa Tenggara Barat,Kota Bima,Kota,train,1,83,15.14,10.0,1.0,70.4338,Open Dumping,Tidak ada,False,False,False
+Kalimantan Selatan,Kabupaten Barito Kuala,Kabupaten (Proxy Desa),train,1,100,30.24,76.0,1.0,69.76,Open Dumping,Tidak diketahui,False,False,False
+Nusa Tenggara Timur,Kabupaten Alor,Kabupaten (Proxy Desa),train,1,93,25.17,0.0,0.0,69.5919,Open Dumping,Tidak ada,False,False,False
+Nusa Tenggara Timur,Kabupaten Manggarai Barat,Kabupaten (Proxy Desa),train,1,118,41.81,1.0,0.0,68.6642,Open Dumping,"Ada, belum final",False,False,False
+Sulawesi Selatan,Kabupaten Pangkajene Kepulauan,Kabupaten (Proxy Desa),train,1,145,52.74,7.0,1.0,68.527,Controlled Landfill,Tidak ada,False,False,False
+Sulawesi Barat,Kabupaten Pasangkayu,Kabupaten (Proxy Desa),train,1,82,20.59,15.0,1.0,65.1162,Open Dumping,Tidak ada,False,False,False
+Nusa Tenggara Timur,Kabupaten Ende,Kabupaten (Proxy Desa),train,1,114,42.98,0.0,0.0,65.00280000000001,Open Dumping,Tidak ada,False,False,False
+Kalimantan Selatan,Kabupaten Hulu Sungai Tengah,Kabupaten (Proxy Desa),train,1,135,52.0,10.0,2.0,64.8,Controlled Landfill,Disahkan,False,False,False
+Sumatera Utara,Kabupaten Humbang Hasundutan,Kabupaten (Proxy Desa),train,1,104,37.89,1.0,0.0,64.5944,Controlled Landfill,Tidak ada,False,False,False
+Nusa Tenggara Timur,Kabupaten Belu,Kabupaten (Proxy Desa),test,1,93,31.8,1.0,0.0,63.425999999999995,Open Dumping,Tidak ada,False,False,False
+Sulawesi Tenggara,Kabupaten Bombana,Kabupaten (Proxy Desa),train,1,84,25.35,0.0,0.0,62.705999999999996,Controlled Landfill,Tidak ada,False,False,False
+Sulawesi Utara,Kota Kotamobagu,Kota,train,1,65,5.05,1.0,1.0,61.7175,Open Dumping,Tidak diketahui,False,False,False
+Aceh,Kabupaten Bener Meriah,Kabupaten (Proxy Desa),test,1,69,13.82,1.0,1.0,59.4642,Open Dumping,Tidak ada,False,False,False
+Sulawesi Tenggara,Kabupaten Kolaka Utara,Kabupaten (Proxy Desa),train,1,72,22.17,1.0,1.0,56.0376,Controlled Landfill,Tidak ada,False,False,False
+Nusa Tenggara Timur,Kabupaten Timor Tengah Utara,Kabupaten (Proxy Desa),train,1,106,49.06,0.0,0.0,53.996399999999994,Tidak memiliki TPA,Tidak ada,False,False,False
+Sumatera Barat,Kabupaten Tanah Datar,Kabupaten (Proxy Desa),train,1,131,58.96,15.0,1.0,53.7624,Controlled Landfill,"Ada, belum final",False,False,False
+Kalimantan Selatan,Kabupaten Hulu Sungai Selatan,Kabupaten (Proxy Desa),train,1,119,55.07,28.0,1.0,53.4667,Controlled Landfill,Disahkan,False,False,False
+Sulawesi Selatan,Kabupaten Enrekang,Kabupaten (Proxy Desa),test,1,93,43.48,2.0,1.0,52.5636,Controlled Landfill,Tidak diketahui,False,False,False
+Sumatera Barat,Kabupaten Sijunjung,Kabupaten (Proxy Desa),train,1,101,47.98,53.0,1.0,52.5402,Open Dumping,"Ada, belum final",False,False,False
+Nusa Tenggara Timur,Kabupaten Malaka,Kabupaten (Proxy Desa),train,1,77,32.0,0.0,0.0,52.35999999999999,Open Dumping,Tidak ada,False,False,False
+Sulawesi Barat,Kabupaten Mamuju Tengah,Kabupaten (Proxy Desa),test,1,72,27.71,0.0,0.0,52.0488,Open Dumping,Tidak ada,False,False,False
+Bengkulu,Kabupaten Kaur,Kabupaten (Proxy Desa),train,1,53,3.94,4.0,1.0,50.9118,Tidak diisi,Tidak diketahui,False,True,False
+Maluku Utara,Kabupaten Halmahera Tengah,Kabupaten (Proxy Desa),train,1,53,4.64,3.0,1.0,50.5408,Open Dumping,Tidak ada,False,False,False
+Papua,Kabupaten Biak Numfor,Kabupaten (Proxy Desa),train,1,60,16.16,3.0,1.0,50.304,Open Dumping,Tidak ada,False,False,False
+Kalimantan Tengah,Kabupaten Murung Raya,Kabupaten (Proxy Desa),train,1,62,21.09,0.0,1.0,48.9242,Controlled Landfill,Tidak ada,False,False,False
+Gorontalo,Kota Gorontalo,Kota,test,1,143,66.04,2.0,0.0,48.56279999999999,Controlled Landfill,Tidak ada,False,False,False
+Sumatera Barat,Kabupaten Solok Selatan,Kabupaten (Proxy Desa),train,1,67,27.7,2.0,0.0,48.441,Open Dumping,"Ada, belum final",False,False,False
+Sulawesi Selatan,Kabupaten Bantaeng,Kabupaten (Proxy Desa),test,1,109,55.63,42.0,1.0,48.363299999999995,Controlled Landfill,Tidak ada,False,False,False
+Nusa Tenggara Timur,Kabupaten Manggarai Timur,Kabupaten (Proxy Desa),train,1,118,59.61,0.0,0.0,47.6602,Controlled Landfill,Tidak ada,False,False,False
+Kalimantan Selatan,Kabupaten Tanah Bumbu,Kabupaten (Proxy Desa),train,1,176,73.16,31.0,1.0,47.23840000000001,Controlled Landfill,"Ada, belum final",False,False,False
+Sulawesi Selatan,Kabupaten Sidenreng Rappang,Kabupaten (Proxy Desa),test,1,165,71.49,39.0,1.0,47.041500000000006,Controlled Landfill,"Ada, belum final",False,False,False
+Kalimantan Selatan,Kabupaten Tabalong,Kabupaten (Proxy Desa),train,1,139,66.31,14.0,1.0,46.8291,Controlled Landfill,Tidak diketahui,False,False,False
+Papua Barat Daya,Kabupaten Sorong,Kabupaten (Proxy Desa),train,1,52,13.13,4.0,1.0,45.1724,Tidak diisi,Tidak diketahui,False,True,False
+Sulawesi Selatan,Kabupaten Tana Toraja,Kabupaten (Proxy Desa),test,1,129,66.11,3.0,1.0,43.7181,Open Dumping,Tidak ada,False,False,False
+Sulawesi Tenggara,Kabupaten Kolaka,Kabupaten (Proxy Desa),train,1,126,65.4,0.0,1.0,43.596,Controlled Landfill,Tidak ada,False,False,False
+Kalimantan Tengah,Kabupaten Kotawaringin Barat,Kabupaten (Proxy Desa),train,1,141,69.67,19.0,2.0,42.7653,Controlled Landfill,"Ada, belum final",False,False,False
+Kalimantan Utara,Kabupaten Bulungan,Kabupaten (Proxy Desa),train,1,88,52.3,0.0,1.0,41.976,Controlled Landfill,"Ada, belum final",False,False,False
+Nusa Tenggara Timur,Kabupaten Rote Ndao,Kabupaten (Proxy Desa),train,1,60,30.13,0.0,0.0,41.922,Open Dumping,Tidak ada,False,False,False
+Kalimantan Tengah,Kota Palangka Raya,Kota,train,1,162,75.19,33.0,1.0,40.1922,Controlled Landfill,"Ada, belum final",False,False,False
+Sulawesi Tenggara,Kabupaten Wakatobi,Kabupaten (Proxy Desa),test,1,59,32.04,22.0,1.0,40.096399999999996,Open Dumping,Tidak diketahui,False,False,False
+Jambi,Kota Sungai Penuh,Kota,test,1,51,23.75,6.0,2.0,38.887499999999996,Open Dumping,Tidak ada,False,False,False
+Aceh,Kabupaten Aceh Barat,Kabupaten (Proxy Desa),train,1,105,63.16,1.0,1.0,38.68200000000001,Controlled Landfill,Tidak ada,False,False,False
+Bengkulu,Kabupaten Bengkulu Utara,Kabupaten (Proxy Desa),train,1,186,80.34,17.0,1.0,36.5676,Controlled Landfill,"Ada, belum final",False,False,False
+Nusa Tenggara Timur,Kabupaten Lembata,Kabupaten (Proxy Desa),train,1,61,40.18,0.0,1.0,36.4902,Controlled Landfill,Tidak ada,False,False,False
+Sulawesi Selatan,Kabupaten Soppeng,Kabupaten (Proxy Desa),train,1,121,70.96,60.0,1.0,35.13840000000001,Controlled Landfill,"Ada, belum final",False,False,False
+Gorontalo,Kabupaten Pohuwato,Kabupaten (Proxy Desa),train,1,64,46.17,7.0,1.0,34.4512,Controlled Landfill,Tidak ada,False,False,False
+Kalimantan Timur,Kabupaten Paser,Kabupaten (Proxy Desa),test,1,128,73.49,28.0,1.0,33.9328,Controlled Landfill,"Ada, belum final",False,False,False
+Sulawesi Selatan,Kabupaten Luwu Timur,Kabupaten (Proxy Desa),train,1,162,79.15,15.0,1.0,33.77699999999999,Controlled Landfill,"Ada, belum final",False,False,False
+Aceh,Kota Langsa,Kota,train,1,92,63.65,50.0,1.0,33.44200000000001,Controlled Landfill,"Ada, belum final",False,False,False
+Kepulauan Riau,Kabupaten Lingga,Kabupaten (Proxy Desa),test,1,51,38.68,1.0,1.0,31.2732,Controlled Landfill,"Ada, belum final",False,False,False
+Kalimantan Timur,Kabupaten Penajam Paser Utara,Kabupaten (Proxy Desa),test,1,101,69.55,92.0,1.0,30.7545,Controlled Landfill,"Ada, belum final",False,False,False
+Sumatera Barat,Kota Pariaman,Kota,train,1,41,25.66,3.0,0.0,30.479400000000002,Open Dumping,"Ada, belum final",False,False,False
+Sulawesi Utara,Kabupaten Kepulauan Sangihe,Kabupaten (Proxy Desa),train,1,56,46.19,1.0,1.0,30.1336,Controlled Landfill,Tidak ada,False,False,False
+Maluku Utara,Kota Tidore Kepulauan,Kota,train,1,61,51.64,7.0,1.0,29.4996,Controlled Landfill,"Ada, belum final",False,False,False
+Kepulauan Bangka Belitung,Kabupaten Bangka Selatan,Kabupaten (Proxy Desa),train,1,86,65.79,3.0,1.0,29.420599999999997,Controlled Landfill,"Ada, belum final",False,False,False
+Gorontalo,Kabupaten Bone Bolango,Kabupaten (Proxy Desa),train,1,57,48.65,1.0,0.0,29.269500000000004,Controlled Landfill,Tidak ada,False,False,False
+Sumatera Selatan,Kota Pagar Alam,Kota,train,1,78,62.73,1.0,0.0,29.070600000000002,Controlled Landfill,Tidak ada,False,False,False
+Sulawesi Selatan,Kabupaten Barru,Kabupaten (Proxy Desa),test,1,79,63.28,1.0,1.0,29.008799999999997,Controlled Landfill,Tidak ada,False,False,False
+Kalimantan Utara,Kabupaten Nunukan,Kabupaten (Proxy Desa),train,1,46,37.89,6.0,1.0,28.5706,Controlled Landfill,"Ada, belum final",False,False,False
+Nusa Tenggara Timur,Kabupaten Nagekeo,Kabupaten (Proxy Desa),train,1,66,58.78,0.0,0.0,27.2052,Tidak memiliki TPA,Tidak ada,False,False,False
+Kalimantan Selatan,Kabupaten Balangan,Kabupaten (Proxy Desa),test,1,69,66.68,45.0,1.0,22.990799999999997,Controlled Landfill,Tidak ada,False,False,False
+Nusa Tenggara Timur,Kabupaten Sumba Tengah,Kabupaten (Proxy Desa),test,1,37,38.98,0.0,0.0,22.577400000000004,Tidak memiliki TPA,Tidak ada,False,False,False
+Nusa Tenggara Timur,Kabupaten Ngada,Kabupaten (Proxy Desa),train,1,70,68.35,1.0,1.0,22.155,Controlled Landfill,Tidak ada,False,False,False
+DKI Jakarta,Kabupaten Kepulauan Seribu,Kabupaten (Proxy Desa),train,1,30,32.73,23.0,1.0,20.181,Open Dumping,Disahkan,False,False,False
+Sulawesi Utara,Kabupaten Minahasa Tenggara,Kabupaten (Proxy Desa),test,1,48,59.45,1.0,0.0,19.464,Controlled Landfill,Tidak ada,False,False,False
+Aceh,Kabupaten Nagan Raya,Kabupaten (Proxy Desa),train,1,72,73.23,2.0,1.0,19.274399999999996,Controlled Landfill,Tidak ada,False,False,False
+Kepulauan Riau,Kabupaten Bintan,Kabupaten (Proxy Desa),train,1,60,82.78,13.0,2.0,10.332,Controlled Landfill,"Ada, belum final",False,False,False
+Sumatera Barat,Kota Padang Panjang,Kota,test,1,51,80.97,5.0,1.0,9.705300000000001,Controlled Landfill,Tidak ada,False,False,False
+Sumatera Barat,Kota Solok,Kota,train,1,59,84.25,13.0,1.0,9.292499999999999,Controlled Landfill,"Ada, belum final",False,False,False
+Sulawesi Tengah,Kabupaten Morowali,Kabupaten (Proxy Desa),train,1,87,89.72,21.0,2.0,8.9436,Controlled Landfill,Tidak ada,False,False,False
+Jawa Barat,Kota Banjar,Kota,train,1,84,89.37,34.0,1.0,8.929199999999996,Controlled Landfill,"Ada, belum final",False,False,False
+Kalimantan Tengah,Kabupaten Sukamara,Kabupaten (Proxy Desa),train,1,27,69.58,0.0,0.0,8.2134,Controlled Landfill,Tidak ada,False,False,False
+Sulawesi Utara,Kota Tomohon,Kota,train,1,52,84.34,0.0,1.0,8.143199999999998,Controlled Landfill,Tidak diketahui,False,False,False
+Papua Pegunungan,Kabupaten Lanny Jaya,Kabupaten (Proxy Desa),train,1,83,90.28,39.0,4.0,8.067599999999995,Controlled Landfill,Disahkan,False,False,True
+Sulawesi Tengah,Kota Palu,Kota,train,1,218,96.61,12.0,1.0,7.390200000000009,Controlled Landfill,"Ada, belum final",False,False,False
+Sumatera Utara,Kabupaten Samosir,Kabupaten (Proxy Desa),train,1,57,87.1,1.0,0.0,7.353,Controlled Landfill,Tidak diketahui,False,False,False
+Papua Pegunungan,Kabupaten Nduga,Kabupaten (Proxy Desa),train,1,45,90.36,32.0,3.0,4.338000000000002,Controlled Landfill,Disahkan,False,False,True
+Sumatera Utara,Kota Tebing Tinggi,Kota,test,1,128,96.91,2.0,2.0,3.955200000000005,Controlled Landfill,"Ada, belum final",False,False,False
+Kalimantan Utara,Kabupaten Tana Tidung,Kabupaten (Proxy Desa),test,1,12,68.53,1.0,0.0,3.7763999999999998,Controlled Landfill,Tidak ada,False,False,False
+Jawa Timur,Kota Blitar,Kota,test,1,77,97.7,4.0,1.0,1.7710000000000017,Tidak diisi,Tidak diketahui,False,True,False
+Sumatera Barat,Kota Sawah Lunto,Kota,test,1,19,93.21,8.0,2.0,1.2901000000000014,Controlled Landfill,Tidak ada,False,False,False
+Sulawesi Selatan,Kota Parepare,Kota,test,1,82,98.57,12.0,2.0,1.1726000000000074,Controlled Landfill,"Ada, belum final",False,False,False
+Sulawesi Tenggara,Kota Baubau,Kota,train,1,82,98.77,2.0,1.0,1.0086000000000073,Controlled Landfill,"Ada, belum final",False,False,False
+Aceh,Kota Sabang,Kota,train,1,18,97.11,0.0,1.0,0.5202000000000007,Controlled Landfill,Tidak ada,False,False,False
+Banten,Kabupaten Tangerang,Kabupaten (Proxy Desa),test,2,2663,4.38,123.0,1.0,2546.3606,Open Dumping,"Ada, belum final",False,False,False
+Jawa Barat,Kabupaten Bekasi,Kabupaten (Proxy Desa),train,2,2404,2.58,257.0,0.0,2341.9768,Open Dumping,Disahkan,False,False,False
+Jawa Barat,Kabupaten Bogor,Kabupaten (Proxy Desa),train,2,2784,22.1,380.0,6.0,2168.736,Open Dumping,"Ada, belum final",False,False,False
+DKI Jakarta,Kota Jakarta Timur,Kota,test,2,2455,16.28,333.0,1.0,2055.326,Open Dumping,Disahkan,False,False,False
+Jawa Barat,Kota Bekasi,Kota,train,2,1801,5.52,260.0,1.0,1701.5847999999999,Open Dumping,Tidak ada,False,False,False
+Jawa Barat,Kabupaten Bandung,Kabupaten (Proxy Desa),train,2,1762,7.77,57.0,2.0,1625.0926,Open Dumping,"Ada, belum final",False,False,False
+DKI Jakarta,Kota Jakarta Selatan,Kota,train,2,2005,19.97,495.0,1.0,1604.6015,Open Dumping,Disahkan,False,False,False
+DKI Jakarta,Kota Jakarta Barat,Kota,train,2,1943,25.94,415.0,1.0,1438.9858,Open Dumping,Disahkan,False,False,False
+Jawa Barat,Kabupaten Cianjur,Kabupaten (Proxy Desa),train,2,1305,2.67,7.0,0.0,1270.1565,Open Dumping,Disahkan,False,False,False
+Jawa Barat,Kota Bandung,Kota,train,2,1574,22.18,390.0,1.0,1224.8868,Open Dumping,Disahkan,False,False,False
+Banten,Kota Tangerang,Kota,test,2,1370,11.09,160.0,1.0,1218.067,Open Dumping,"Ada, belum final",False,False,False
+Jawa Barat,Kabupaten Cirebon,Kabupaten (Proxy Desa),train,2,1250,3.18,42.0,2.0,1210.25,Open Dumping,"Ada, belum final",False,False,False
+Banten,Kabupaten Serang,Kabupaten (Proxy Desa),train,2,1191,0.99,33.0,1.0,1179.2091,Tidak memiliki TPA,"Ada, belum final",False,False,False
+DKI Jakarta,Kota Jakarta Utara,Kota,train,2,1411,21.49,517.0,1.0,1107.7761,Open Dumping,Disahkan,False,False,False
+Kepulauan Riau,Kota Batam,Kota,train,2,1161,5.45,163.0,1.0,1097.7255,Open Dumping,Tidak ada,False,False,False
+Jawa Tengah,Kota Semarang,Kota,test,2,1190,8.27,857.0,1.0,1091.587,Open Dumping,Disahkan,False,False,False
+Jawa Barat,Kota Depok,Kota,train,2,1277,17.36,421.0,2.0,1055.3128,Open Dumping,Disahkan,False,False,False
+Jawa Barat,Kabupaten Karawang,Kabupaten (Proxy Desa),train,2,1067,3.69,106.0,7.0,1027.6277,Open Dumping,Disahkan,False,False,False
+Jawa Timur,Kabupaten Jember,Kabupaten (Proxy Desa),train,2,1046,1.89,120.0,1.0,1026.2305999999999,Open Dumping,"Ada, belum final",False,False,False
+Jawa Barat,Kabupaten Indramayu,Kabupaten (Proxy Desa),train,2,1122,8.59,7.0,0.0,1025.6202,Open Dumping,Disahkan,False,False,False
+Sumatera Selatan,Kota Palembang,Kota,train,2,1261,21.18,85.0,1.0,993.9202,Open Dumping,"Ada, belum final",False,False,False
+Jawa Barat,Kabupaten Garut,Kabupaten (Proxy Desa),train,2,1141,13.98,23.0,3.0,981.4882,Open Dumping,"Ada, belum final",False,False,False
+Sulawesi Selatan,Kota Makassar,Kota,train,2,1034,7.84,348.0,1.0,952.9344,Open Dumping,"Ada, belum final",False,False,False
+Jawa Barat,Kabupaten Majalengka,Kabupaten (Proxy Desa),train,2,938,1.53,4.0,1.0,923.6486,Tidak diisi,Tidak diketahui,False,True,False
+Bali,Kota Denpasar,Kota,test,2,1033,10.73,338.0,3.0,922.1591000000001,Open Dumping,Disahkan,False,False,False
+Jawa Barat,Kabupaten Sukabumi,Kabupaten (Proxy Desa),train,2,1128,23.94,48.0,2.0,857.9567999999999,Open Dumping,Tidak ada,False,False,False
+Riau,Kota Pekanbaru,Kota,train,2,1051,22.05,55.0,5.0,819.2545,Open Dumping,"Ada, belum final",False,False,False
+Jawa Barat,Kabupaten Tasikmalaya,Kabupaten (Proxy Desa),train,2,798,0.96,14.0,1.0,790.3392,Open Dumping,Tidak ada,False,False,False
+Sumatera Utara,Kabupaten Deli Serdang,Kabupaten (Proxy Desa),train,2,1024,22.9,4.0,1.0,789.504,Tidak diisi,Tidak diketahui,False,True,False
+Jawa Tengah,Kabupaten Cilacap,Kabupaten (Proxy Desa),train,2,964,18.39,269.0,1.0,786.7204,Controlled Landfill,Tidak ada,False,False,False
+Bali,Kabupaten Badung,Kabupaten (Proxy Desa),train,2,876,17.03,98.0,1.0,726.8172,Open Dumping,"Ada, belum final",False,False,False
+Jawa Barat,Kabupaten Bandung Barat,Kabupaten (Proxy Desa),train,2,763,6.88,69.0,1.0,710.5056000000001,Open Dumping,Disahkan,False,False,False
+DKI Jakarta,Kota Jakarta Pusat,Kota,train,2,858,17.68,619.0,1.0,706.3056,Open Dumping,Disahkan,False,False,False
+Lampung,Kota Bandar Lampung,Kota,train,2,700,7.3,12.0,2.0,648.9,Open Dumping,Tidak ada,False,False,False
+Jawa Barat,Kabupaten Subang,Kabupaten (Proxy Desa),test,2,660,3.63,19.0,1.0,636.042,Open Dumping,Tidak ada,False,False,False
+Kalimantan Timur,Kota Samarinda,Kota,test,2,608,0.36,74.0,1.0,605.8112,Open Dumping,Tidak ada,False,False,False
+Jawa Tengah,Kabupaten Tegal,Kabupaten (Proxy Desa),train,2,662,11.22,39.0,1.0,587.7236,Open Dumping,Disahkan,False,False,False
+Jawa Timur,Kabupaten Pasuruan,Kabupaten (Proxy Desa),test,2,834,30.61,177.0,1.0,578.7126,Controlled Landfill,"Ada, belum final",False,True,False
+Jawa Tengah,Kabupaten Pati,Kabupaten (Proxy Desa),train,2,691,16.9,21.0,1.0,574.221,Open Dumping,"Ada, belum final",False,False,False
+Jawa Barat,Kota Bogor,Kota,test,2,755,25.32,122.0,1.0,563.8340000000001,Controlled Landfill,"Ada, belum final",False,False,False
+Jawa Timur,Kabupaten Malang,Kabupaten (Proxy Desa),train,2,1094,48.88,195.0,1.0,559.2528,Controlled Landfill,Tidak ada,False,False,False
+Banten,Kabupaten Pandeglang,Kabupaten (Proxy Desa),train,2,566,2.88,7.0,1.0,549.6992,Open Dumping,"Ada, belum final",False,False,False
+Sumatera Selatan,Kabupaten Banyuasin,Kabupaten (Proxy Desa),train,2,533,0.06,11.0,1.0,532.6802,Open Dumping,"Ada, belum final",False,False,False
+Sumatera Utara,Kota Medan,Kota,train,2,1740,71.37,12.0,2.0,498.162,Sanitary Landfill,"Ada, belum final",False,False,False
+Riau,Kabupaten Kampar,Kabupaten (Proxy Desa),train,2,539,8.84,4.0,1.0,491.3524,Tidak diisi,Tidak diketahui,False,True,False
+Jawa Tengah,Kabupaten Klaten,Kabupaten (Proxy Desa),train,2,650,25.61,20.0,1.0,483.535,Open Dumping,"Ada, belum final",False,False,False
+Jawa Tengah,Kabupaten Semarang,Kabupaten (Proxy Desa),train,2,544,13.07,170.0,1.0,472.89919999999995,Open Dumping,"Ada, belum final",False,False,False
+Kalimantan Selatan,Kota Banjarmasin,Kota,train,2,477,2.2,8.0,1.0,466.506,Open Dumping,"Ada, belum final",False,False,False
+Jawa Timur,Kabupaten Probolinggo,Kabupaten (Proxy Desa),train,2,477,4.32,24.0,0.0,456.3936,Open Dumping,"Ada, belum final",False,False,False
+DI Yogyakarta,Kabupaten Sleman,Kabupaten (Proxy Desa),train,2,585,22.24,494.0,1.0,454.896,Controlled Landfill,"Ada, belum final",False,False,False
+Jawa Tengah,Kabupaten Kebumen,Kabupaten (Proxy Desa),train,2,699,36.5,204.0,1.0,443.865,Open Dumping,"Ada, belum final",False,False,False
+Jawa Tengah,Kabupaten Demak,Kabupaten (Proxy Desa),train,2,626,29.82,175.0,1.0,439.3268,Open Dumping,Disahkan,False,False,False
+Jawa Timur,Kabupaten Banyuwangi,Kabupaten (Proxy Desa),test,2,839,47.88,170.0,1.0,437.28679999999997,Open Dumping,"Ada, belum final",False,False,False
+Nusa Tenggara Barat,Kabupaten Lombok Timur,Kabupaten (Proxy Desa),train,2,583,25.31,25.0,0.0,435.4427,Controlled Landfill,"Ada, belum final",False,False,False
+Banten,Kota Tangerang Selatan,Kota,test,2,1029,58.46,316.0,0.0,427.4466,Open Dumping,Tidak ada,False,False,False
+Jawa Barat,Kabupaten Kuningan,Kabupaten (Proxy Desa),test,2,486,12.11,15.0,2.0,427.1454,Open Dumping,Tidak ada,False,False,False
+Jawa Tengah,Kabupaten Kendal,Kabupaten (Proxy Desa),train,2,437,2.81,11.0,1.0,424.7203,Open Dumping,"Ada, belum final",False,False,False
+Jawa Barat,Kabupaten Sumedang,Kabupaten (Proxy Desa),test,2,491,14.32,21.0,1.0,420.6888,Open Dumping,"Ada, belum final",False,False,False
+Jawa Timur,Kabupaten Tulungagung,Kabupaten (Proxy Desa),test,2,455,7.97,95.0,0.0,418.7365,Open Dumping,"Ada, belum final",False,False,False
+Jawa Tengah,Kabupaten Grobogan,Kabupaten (Proxy Desa),train,2,859,52.5,278.0,1.0,408.025,Controlled Landfill,Tidak ada,False,False,False
+Jawa Timur,Kabupaten Blitar,Kabupaten (Proxy Desa),train,2,417,2.65,164.0,1.0,405.9495,Open Dumping,"Ada, belum final",False,False,False
+Sulawesi Selatan,Kabupaten Gowa,Kabupaten (Proxy Desa),train,2,403,0.25,79.0,1.0,401.9925,Open Dumping,Tidak ada,False,False,False
+Jawa Tengah,Kabupaten Wonogiri,Kabupaten (Proxy Desa),train,2,422,6.2,84.0,1.0,395.83599999999996,Open Dumping,"Ada, belum final",False,False,False
+Bali,Kabupaten Gianyar,Kabupaten (Proxy Desa),train,2,562,30.67,161.0,3.0,389.63460000000003,Open Dumping,Disahkan,False,False,False
+Jawa Barat,Kabupaten Purwakarta,Kabupaten (Proxy Desa),train,2,420,7.46,34.0,1.0,388.668,Open Dumping,Disahkan,False,False,False
+Sumatera Utara,Kabupaten Asahan,Kabupaten (Proxy Desa),train,2,407,5.63,21.0,1.0,384.0859,Open Dumping,Tidak ada,False,False,False
+Jawa Timur,Kabupaten Nganjuk,Kabupaten (Proxy Desa),train,2,744,49.42,281.0,1.0,376.3152,Open Dumping,"Ada, belum final",False,False,False
+Jawa Tengah,Kabupaten Karanganyar,Kabupaten (Proxy Desa),train,2,382,2.65,37.0,0.0,371.877,Open Dumping,Tidak ada,False,False,False
+Jawa Tengah,Kabupaten Purbalingga,Kabupaten (Proxy Desa),test,2,524,30.66,52.0,0.0,363.3416,Open Dumping,Disahkan,False,False,False
+Bali,Kabupaten Buleleng,Kabupaten (Proxy Desa),test,2,414,12.68,107.0,1.0,361.5048,Open Dumping,Tidak ada,False,False,False
+Jawa Timur,Kabupaten Lamongan,Kabupaten (Proxy Desa),test,2,555,35.31,230.0,1.0,359.02950000000004,Open Dumping,Tidak diketahui,False,False,False
+Kalimantan Timur,Kabupaten Kutai Kartanegara,Kabupaten (Proxy Desa),train,2,373,7.31,54.0,1.0,345.7337,Open Dumping,Disahkan,False,False,False
+Jawa Tengah,Kabupaten Sragen,Kabupaten (Proxy Desa),train,2,402,17.64,236.0,3.0,331.0872,Open Dumping,"Ada, belum final",False,False,False
+Lampung,Kabupaten Tanggamus,Kabupaten (Proxy Desa),train,2,374,12.0,38.0,1.0,329.12,Controlled Landfill,"Ada, belum final",False,False,False
+Jawa Tengah,Kabupaten Banjarnegara,Kabupaten (Proxy Desa),train,2,429,24.29,34.0,1.0,324.7959,Open Dumping,Tidak ada,False,False,False
+Jawa Timur,Kabupaten Bangkalan,Kabupaten (Proxy Desa),train,2,418,22.74,17.0,1.0,322.9468,Tidak memiliki TPA,Tidak ada,False,False,False
+Jawa Tengah,Kabupaten Kudus,Kabupaten (Proxy Desa),train,2,440,29.59,57.0,1.0,309.804,Open Dumping,Tidak ada,False,False,False
+Jawa Tengah,Kabupaten Pemalang,Kabupaten (Proxy Desa),train,2,468,33.92,39.0,0.0,309.25440000000003,Open Dumping,"Ada, belum final",False,False,False
+Kalimantan Barat,Kota Pontianak,Kota,train,2,412,25.19,18.0,1.0,308.2172,Open Dumping,Tidak ada,False,False,False
+Jawa Tengah,Kabupaten Magelang,Kabupaten (Proxy Desa),train,2,671,54.21,557.0,2.0,307.2509,Open Dumping,Disahkan,False,False,False
+Jawa Tengah,Kabupaten Sukoharjo,Kabupaten (Proxy Desa),test,2,367,16.3,268.0,1.0,307.179,Open Dumping,Disahkan,False,False,False
+Jawa Tengah,Kabupaten Blora,Kabupaten (Proxy Desa),train,2,402,23.79,127.0,1.0,306.3642,Open Dumping,"Ada, belum final",False,False,False
+Banten,Kota Cilegon,Kota,train,2,336,9.4,37.0,0.0,304.416,Open Dumping,"Ada, belum final",False,False,False
+Jawa Tengah,Kabupaten Pekalongan,Kabupaten (Proxy Desa),train,2,403,26.33,17.0,1.0,296.8901,Open Dumping,"Ada, belum final",False,False,False
+Sulawesi Utara,Kota Manado,Kota,train,2,296,4.57,58.0,2.0,282.4728,Open Dumping,Disahkan,False,False,False
+Jawa Timur,Kabupaten Ponorogo,Kabupaten (Proxy Desa),test,2,391,28.7,29.0,1.0,278.783,Open Dumping,Tidak ada,False,False,False
+Jawa Tengah,Kabupaten Temanggung,Kabupaten (Proxy Desa),train,2,411,32.28,118.0,0.0,278.3292,Open Dumping,Disahkan,False,False,False
+Sumatera Utara,Kabupaten Karo,Kabupaten (Proxy Desa),train,2,277,0.25,0.0,16.0,276.3075,Open Dumping,Tidak ada,False,False,False
+Jawa Barat,Kota Tasikmalaya,Kota,test,2,333,17.71,64.0,1.0,274.0257,Open Dumping,Tidak ada,False,False,False
+Jawa Timur,Kabupaten Kediri,Kabupaten (Proxy Desa),train,2,677,59.8,43.0,1.0,272.154,Controlled Landfill,"Ada, belum final",False,False,False
+Jawa Timur,Kabupaten Ngawi,Kabupaten (Proxy Desa),train,2,372,27.46,47.0,1.0,269.84880000000004,Open Dumping,"Ada, belum final",False,False,False
+Jawa Tengah,Kabupaten Boyolali,Kabupaten (Proxy Desa),test,2,301,13.26,172.0,1.0,261.0874,Open Dumping,"Ada, belum final",False,False,False
+Aceh,Kota Banda Aceh,Kota,test,2,259,2.63,24.0,1.0,252.1883,Open Dumping,"Ada, belum final",False,False,False
+Jawa Timur,Kabupaten Bojonegoro,Kabupaten (Proxy Desa),test,2,368,31.6,88.0,0.0,251.712,Open Dumping,"Ada, belum final",False,False,False
+Maluku,Kota Ambon,Kota,train,2,248,4.41,19.0,1.0,237.0632,Open Dumping,"Ada, belum final",False,False,False
+DI Yogyakarta,Kabupaten Bantul,Kabupaten (Proxy Desa),train,2,422,44.29,564.0,1.0,235.09619999999998,Controlled Landfill,Disahkan,False,False,False
+Sulawesi Barat,Kabupaten Polewali Mandar,Kabupaten (Proxy Desa),test,2,246,5.41,37.0,1.0,232.6914,Tidak memiliki TPA,"Ada, belum final",False,False,False
+Jawa Timur,Kabupaten Lumajang,Kabupaten (Proxy Desa),train,2,553,58.36,28.0,2.0,230.26919999999998,Controlled Landfill,"Ada, belum final",False,False,False
+DI Yogyakarta,Kabupaten Gunung Kidul,Kabupaten (Proxy Desa),train,2,369,38.16,287.0,2.0,228.1896,Controlled Landfill,Disahkan,False,False,False
+Kalimantan Timur,Kabupaten Kutai Timur,Kabupaten (Proxy Desa),test,2,224,1.52,48.0,1.0,220.5952,Open Dumping,Tidak diketahui,False,False,False
+Bali,Kabupaten Tabanan,Kabupaten (Proxy Desa),train,2,239,9.39,48.0,2.0,216.55790000000002,Open Dumping,"Ada, belum final",False,False,False
+Bali,Kabupaten Karangasem,Kabupaten (Proxy Desa),test,2,281,23.48,19.0,2.0,215.0212,Open Dumping,Tidak ada,False,False,False
+Jawa Tengah,Kabupaten Banyumas,Kabupaten (Proxy Desa),train,2,731,70.6,46.0,0.0,214.91400000000002,Controlled Landfill,"Ada, belum final",False,False,False
+Jawa Timur,Kabupaten Mojokerto,Kabupaten (Proxy Desa),train,2,450,53.1,171.0,1.0,211.04999999999998,Controlled Landfill,Tidak diketahui,False,False,False
+Jawa Barat,Kota Cirebon,Kota,train,2,216,6.03,26.0,2.0,202.9752,Open Dumping,"Ada, belum final",False,False,False
+Jawa Tengah,Kabupaten Jepara,Kabupaten (Proxy Desa),train,2,433,55.41,46.0,1.0,193.07470000000004,Controlled Landfill,"Ada, belum final",False,False,False
+Kalimantan Selatan,Kota Banjarbaru,Kota,train,2,200,10.97,24.0,4.0,178.06,Open Dumping,"Ada, belum final",False,False,False
+Jawa Timur,Kabupaten Tuban,Kabupaten (Proxy Desa),test,2,529,66.37,57.0,1.0,177.90269999999995,Controlled Landfill,Disahkan,False,False,False
+Kalimantan Selatan,Kabupaten Banjar,Kabupaten (Proxy Desa),train,2,365,51.3,88.0,1.0,177.755,Open Dumping,"Ada, belum final",False,False,False
+Lampung,Kabupaten Way Kanan,Kabupaten (Proxy Desa),train,2,198,12.32,18.0,2.0,173.6064,Controlled Landfill,"Ada, belum final",False,False,False
+Jawa Timur,Kota Kediri,Kota,train,2,182,8.43,65.0,1.0,166.6574,Open Dumping,"Ada, belum final",False,False,False
+Jawa Timur,Kabupaten Jombang,Kabupaten (Proxy Desa),test,2,531,69.36,139.0,1.0,162.6984,Controlled Landfill,Disahkan,False,False,False
+Bengkulu,Kota Bengkulu,Kota,train,2,159,1.33,9.0,5.0,156.8853,Open Dumping,"Ada, belum final",False,False,False
+DI Yogyakarta,Kota Yogyakarta,Kota,train,2,332,56.6,660.0,1.0,144.088,Open Dumping,Disahkan,False,False,False
+Jawa Timur,Kabupaten Trenggalek,Kabupaten (Proxy Desa),train,2,302,52.83,95.0,1.0,142.45340000000002,Controlled Landfill,"Ada, belum final",False,False,False
+Riau,Kota Dumai,Kota,train,2,178,22.92,34.0,7.0,137.20239999999998,Open Dumping,"Ada, belum final",False,False,False
+Jawa Tengah,Kota Tegal,Kota,train,2,177,32.06,48.0,1.0,120.2538,Open Dumping,"Ada, belum final",False,False,False
+Jawa Barat,Kota Cimahi,Kota,train,2,234,49.6,235.0,1.0,117.936,Open Dumping,Disahkan,False,False,False
+Jawa Timur,Kabupaten Madiun,Kabupaten (Proxy Desa),test,2,295,61.23,194.0,1.0,114.37150000000001,Controlled Landfill,"Ada, belum final",False,False,False
+Nusa Tenggara Barat,Kabupaten Dompu,Kabupaten (Proxy Desa),train,2,113,1.15,46.0,2.0,111.7005,Open Dumping,Tidak ada,False,False,False
+Jawa Tengah,Kabupaten Wonosobo,Kabupaten (Proxy Desa),train,2,368,69.7,534.0,1.0,111.50399999999998,Controlled Landfill,"Ada, belum final",False,False,False
+Sulawesi Selatan,Kabupaten Bone,Kabupaten (Proxy Desa),train,2,414,73.1,78.0,1.0,111.36600000000001,Controlled Landfill,"Ada, belum final",False,False,False
+DI Yogyakarta,Kabupaten Kulon Progo,Kabupaten (Proxy Desa),train,2,217,49.3,96.0,3.0,110.019,Controlled Landfill,"Ada, belum final",False,False,False
+Jawa Timur,Kabupaten Pamekasan,Kabupaten (Proxy Desa),test,2,281,61.23,11.0,2.0,108.9437,Controlled Landfill,"Ada, belum final",False,False,False
+Sumatera Utara,Kabupaten Toba Samosir,Kabupaten (Proxy Desa),test,2,108,0.48,60.0,2.0,107.4816,Open Dumping,Tidak ada,False,False,False
+Banten,Kota Serang,Kota,train,2,521,79.9,82.0,4.0,104.72099999999998,Controlled Landfill,"Ada, belum final",False,False,False
+Jawa Barat,Kabupaten Ciamis,Kabupaten (Proxy Desa),test,2,501,80.17,254.0,2.0,99.34830000000001,Controlled Landfill,Tidak ada,False,False,False
+Jawa Timur,Kabupaten Gresik,Kabupaten (Proxy Desa),train,2,401,75.42,320.0,14.0,98.56580000000001,Controlled Landfill,Disahkan,False,False,False
+Sulawesi Tenggara,Kota Kendari,Kota,train,2,189,53.1,41.0,1.0,88.64099999999999,Open Dumping,"Ada, belum final",False,False,False
+Jawa Tengah,Kabupaten Purworejo,Kabupaten (Proxy Desa),train,2,324,73.21,118.0,1.0,86.79960000000001,Controlled Landfill,"Ada, belum final",False,False,False
+Jawa Timur,Kabupaten Sidoarjo,Kabupaten (Proxy Desa),train,2,892,90.3,221.0,1.0,86.52399999999997,Controlled Landfill,"Ada, belum final",False,False,False
+Bali,Kabupaten Bangli,Kabupaten (Proxy Desa),test,2,114,27.45,198.0,1.0,82.70700000000001,Open Dumping,"Ada, belum final",False,False,False
+Jawa Timur,Kabupaten Magetan,Kabupaten (Proxy Desa),train,2,277,70.62,111.0,1.0,81.38259999999998,Controlled Landfill,Tidak ada,False,False,False
+Jawa Tengah,Kota Salatiga,Kota,train,2,115,30.78,119.0,1.0,79.603,Open Dumping,"Ada, belum final",False,False,False
+Lampung,Kabupaten Lampung Selatan,Kabupaten (Proxy Desa),train,2,787,90.77,8.0,3.0,72.64010000000003,Controlled Landfill,Tidak ada,False,False,False
+Jawa Timur,Kabupaten Situbondo,Kabupaten (Proxy Desa),train,2,257,72.69,65.0,1.0,70.1867,Controlled Landfill,"Ada, belum final",False,False,False
+Jawa Timur,Kota Batu,Kota,test,2,122,59.66,179.0,1.0,49.2148,Open Dumping,"Ada, belum final",False,False,False
+Bali,Kabupaten Klungkung,Kabupaten (Proxy Desa),train,2,112,58.13,29.0,4.0,46.8944,Open Dumping,"Ada, belum final",False,False,False
+Jawa Timur,Kota Surabaya,Kota,train,2,1811,98.26,660.0,1.0,31.51139999999995,Sanitary Landfill,"Ada, belum final",False,False,False
+Jambi,Kota Jambi,Kota,train,2,447,94.26,44.0,1.0,25.657799999999952,Controlled Landfill,"Ada, belum final",False,False,False
+Nusa Tenggara Barat,Kota Mataram,Kota,train,2,305,93.35,27.0,1.0,20.282500000000002,Controlled Landfill,"Ada, belum final",False,False,False
+Jawa Timur,Kota Pasuruan,Kota,train,2,149,92.82,89.0,1.0,10.698200000000012,Controlled Landfill,"Ada, belum final",False,False,False
+Sumatera Barat,Kota Padang,Kota,train,2,669,98.94,134.0,2.0,7.091400000000036,Controlled Landfill,Disahkan,False,False,False
+Jawa Timur,Kota Malang,Kota,train,2,731,99.11,239.0,1.0,6.505900000000014,Controlled Landfill,"Ada, belum final",False,False,False
+Kalimantan Timur,Kota Balikpapan,Kota,train,2,541,99.46,169.0,2.0,2.9214000000000384,Sanitary Landfill,Disahkan,False,False,False
+Kalimantan Timur,Kota Bontang,Kota,train,2,107,99.25,316.0,1.0,0.8024999999999948,Sanitary Landfill,Disahkan,False,False,False

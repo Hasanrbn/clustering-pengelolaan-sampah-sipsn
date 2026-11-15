@@ -1,0 +1,5 @@
+﻿Skenario,ARI terhadap model akhir,n wilayah
+"Seed berbeda, n_init=1 (20 kali)",min 0.73 | rata-rata 0.90,511
+"Seed berbeda, n_init=20 (20 kali)",min 0.92 | rata-rata 0.95,511
+Tanpa wilayah belum-verifikasi/timbulan-0 (-25 wilayah),0.89,486
+Imputasi BSU/BSI = 0 (bukan median),0.92,511
