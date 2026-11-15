@@ -15,8 +15,7 @@ Anggota Kelompok:
 | `analisis_sampah.ipynb` | **Notebook utama** (EDA, preprocessing, pemodelan K-Means, uji sensitivitas) |
 | `Statistik_Pengelolaan_Sampah_2026_2026-10-22.xls` | Data mentah SIPSN (sebenarnya berkas HTML) |
 | `output/` | Grafik (PNG) dan tabel (CSV) hasil notebook |
-| `analisis_sampah_revisi.py` | Skrip lama (bagian 1-5 sudah dipindahkan ke notebook) |
-| `analisis_sampah.py` | Skrip versi pertama, usang (berisi klaim angka yang tidak dihitung dari data) |
+| `requirements.txt` | Daftar library Python yang dibutuhkan |
 
 ## Cara menjalankan
 ```bash
