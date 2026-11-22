@@ -1,6 +1,6 @@
 # Klasifikasi Prioritas Intervensi Pengelolaan Sampah Plastik Perdesaan Menggunakan K-Means Clustering
 
-**Kelas Praktikum | Data Science IF-D**
+**Kelas Praktikum | Data Science IF-D | ID KELOMPOK 38**
 
 Proyek Data Science yang mengelompokkan kabupaten di Indonesia (sebagai *proxy* wilayah perdesaan) berdasarkan indikator timbulan dan kinerja pengelolaan sampah dari **SIPSN (Sistem Informasi Pengelolaan Sampah Nasional)** menggunakan algoritma **K-Means Clustering** untuk mendukung penentuan prioritas intervensi kebijakan.
 
