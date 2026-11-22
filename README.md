@@ -2,7 +2,7 @@
 
 **Kelas Praktikum | Data Science IF-D | ID KELOMPOK 38**
 
-Proyek Data Science yang mengelompokkan kabupaten di Indonesia (sebagai *proxy* wilayah perdesaan) berdasarkan indikator timbulan dan kinerja pengelolaan sampah dari **SIPSN (Sistem Informasi Pengelolaan Sampah Nasional)** menggunakan algoritma **K-Means Clustering** untuk mendukung penentuan prioritas intervensi kebijakan.
+Proyek Data Science yang mengelompokkan kabupaten di Indonesia (wilayah perdesaan) berdasarkan indikator timbulan dan kinerja pengelolaan sampah dari **SIPSN (Sistem Informasi Pengelolaan Sampah Nasional)** menggunakan algoritma **K-Means Clustering** untuk mendukung penentuan prioritas intervensi kebijakan.
 
 ### Anggota Kelompok
 1. **Muhammad Hasan Rabbani** — `123240005`
